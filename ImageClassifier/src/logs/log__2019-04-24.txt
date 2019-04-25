@@ -1,0 +1,11 @@
+[INFO 20:30:25]		********** New session started *********
+[INFO 20:32:34]		********** New session started *********
+[INFO 20:32:43]		********** New session started *********
+[INFO 20:34:11]		********** New session started *********
+[INFO 20:38:25]		********** New session started *********
+[INFO 20:39:25]		********** New session started *********
+[INFO 20:41:20]		********** New session started *********
+[INFO 20:42:48]		********** New session started *********
+[INFO 20:44:00]		********** New session started *********
+[INFO 20:44:31]		********** New session started *********
+[INFO 20:44:33]		********** New session started *********

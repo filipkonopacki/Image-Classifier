@@ -1,0 +1,154 @@
+**********Result**********
+Finished: 2019-04-11 13:36:41
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Feature vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.63
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.71	logistic_regression accuracy for test set: 0.64
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.73
+##########################
+
+**********Result**********
+Finished: 2019-04-11 13:55:07
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Feature vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.65	SVC accuracy for test set: 0.58
+Prediction set: 70	Decision: SVC accuracy for train set: 0.66	SVC accuracy for test set: 0.73
+Prediction set: 80	Decision: SVC accuracy for train set: 0.68	SVC accuracy for test set: 0.7
+##########################
+
+**********Result**********
+Finished: 2019-04-11 14:00:48
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.58	SVC accuracy for test set: 0.73
+Prediction set: 70	Decision: SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.65
+Prediction set: 80	Decision: SVC accuracy for train set: 0.71	SVC accuracy for test set: 0.51
+##########################
+
+**********Result**********
+Finished: 2019-04-11 14:36:03
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.63	logistic_regression accuracy for test set: 0.71
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.67
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.73
+##########################
+
+**********Result**********
+Finished: 2019-04-11 14:45:53
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.73
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.67
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.68
+##########################
+
+**********Result**********
+Finished: 2019-04-11 15:33:02
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 3.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 4.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 5.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 6.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 7.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 8.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.77	logistic_regression accuracy for test set: 0.59
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.67
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.59
+##########################
+
+**********Result**********
+Finished: 2019-04-11 16:46:26
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 3.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 4.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 5.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 6.jpg	Decision: ['real']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 7.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 8.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.68
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.69
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.76
+##########################
+

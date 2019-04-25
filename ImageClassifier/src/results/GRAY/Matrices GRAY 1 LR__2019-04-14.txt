@@ -1,0 +1,336 @@
+**********Result**********
+Finished: 2019-04-14 00:00:01
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.49	logistic_regression accuracy for test set: 0.51
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.55	logistic_regression accuracy for test set: 0.51
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.55	logistic_regression accuracy for test set: 0.52
+##########################
+
+**********Result**********
+Finished: 2019-04-14 00:27:20
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.6	logistic_regression accuracy for test set: 0.54
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.51
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.58	logistic_regression accuracy for test set: 0.4
+##########################
+
+**********Result**********
+Finished: 2019-04-14 02:10:13
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.59	logistic_regression accuracy for test set: 0.46
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.62
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.33
+##########################
+
+**********Result**********
+Finished: 2019-04-14 05:11:35
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.57
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.5	logistic_regression accuracy for test set: 0.6
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.6	logistic_regression accuracy for test set: 0.42
+##########################
+
+**********Result**********
+Finished: 2019-04-14 10:03:59
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.53	logistic_regression accuracy for test set: 0.56
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.54
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.59	logistic_regression accuracy for test set: 0.52
+##########################
+
+**********Result**********
+Finished: 2019-04-14 10:46:51
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.47
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.64
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.42
+##########################
+
+**********Result**********
+Finished: 2019-04-14 11:16:32
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.49	logistic_regression accuracy for test set: 0.5
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.54	logistic_regression accuracy for test set: 0.47
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.52
+##########################
+
+**********Result**********
+Finished: 2019-04-14 11:46:17
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.6	logistic_regression accuracy for test set: 0.54
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.55	logistic_regression accuracy for test set: 0.6
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.53	logistic_regression accuracy for test set: 0.56
+##########################
+
+**********Result**********
+Finished: 2019-04-14 12:17:33
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.52
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.53
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.55	logistic_regression accuracy for test set: 0.54
+##########################
+
+**********Result**********
+Finished: 2019-04-14 12:47:37
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.53
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.54	logistic_regression accuracy for test set: 0.53
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.56	logistic_regression accuracy for test set: 0.44
+##########################
+
+**********Result**********
+Finished: 2019-04-14 13:42:21
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.53	logistic_regression accuracy for test set: 0.55
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.51
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.55	logistic_regression accuracy for test set: 0.5
+##########################
+
+**********Result**********
+Finished: 2019-04-14 14:42:20
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.58	logistic_regression accuracy for test set: 0.53
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.47
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.42
+##########################
+
+**********Result**********
+Finished: 2019-04-14 15:45:17
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.57	logistic_regression accuracy for test set: 0.6
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.58	logistic_regression accuracy for test set: 0.54
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.53	logistic_regression accuracy for test set: 0.48
+##########################
+
+**********Result**********
+Finished: 2019-04-14 17:17:32
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_LR 2.xml
+Test name: Matrices GRAY 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['GRAY']
+		Offsets: ['10', '20', '40', '80']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.58	logistic_regression accuracy for test set: 0.56
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.58	logistic_regression accuracy for test set: 0.57
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.62	logistic_regression accuracy for test set: 0.46
+##########################
+

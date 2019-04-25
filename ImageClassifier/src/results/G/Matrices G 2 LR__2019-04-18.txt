@@ -1,0 +1,24 @@
+**********Result**********
+Finished: 2019-04-18 20:54:12
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_SVC3.xml
+Test name: Matrices G 2 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['G']
+		Offsets: ['01', '02', '04', '08']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.57	SVC accuracy for test set: 0.61
+Prediction set: 70	Decision: SVC accuracy for train set: 0.53	SVC accuracy for test set: 0.43
+Prediction set: 80	Decision: SVC accuracy for train set: 0.61	SVC accuracy for test set: 0.65
+##########################
+

@@ -1,0 +1,146 @@
+[INFO 20:01:36]		********** New session started *********
+[INFO 20:02:29]		********** New session started *********
+[INFO 20:02:54]		********** New session started *********
+[INFO 20:03:29]		********** New session started *********
+[INFO 20:03:50]		********** New session started *********
+[INFO 20:04:19]		********** New session started *********
+[INFO 20:04:48]		********** New session started *********
+[INFO 20:07:13]		********** New session started *********
+[INFO 20:07:24]		********** New session started *********
+[INFO 20:07:53]		********** New session started *********
+[INFO 20:08:04]		********** New session started *********
+[INFO 20:08:17]		********** New session started *********
+[INFO 20:08:29]		********** New session started *********
+[INFO 20:08:43]		********** New session started *********
+[INFO 20:08:52]		********** New session started *********
+[INFO 20:09:01]		********** New session started *********
+[INFO 20:09:47]		********** New session started *********
+[INFO 20:10:33]		********** New session started *********
+[INFO 20:11:18]		********** New session started *********
+[INFO 20:11:41]		********** New session started *********
+[INFO 20:12:08]		********** New session started *********
+[INFO 20:12:40]		********** New session started *********
+[INFO 20:12:55]		********** New session started *********
+[INFO 20:13:17]		********** New session started *********
+[INFO 20:13:34]		********** New session started *********
+[INFO 20:14:34]		********** New session started *********
+[INFO 20:14:37]		********** New session started *********
+[INFO 20:15:38]		********** New session started *********
+[INFO 20:16:59]		********** New session started *********
+[INFO 20:24:29]		********** New session started *********
+[INFO 20:24:39]		********** New session started *********
+[INFO 20:25:13]		********** New session started *********
+[INFO 20:25:40]		********** New session started *********
+[INFO 20:26:16]		********** New session started *********
+[INFO 20:26:35]		********** New session started *********
+[INFO 20:26:51]		********** New session started *********
+[INFO 20:27:09]		********** New session started *********
+[INFO 20:27:28]		********** New session started *********
+[INFO 20:27:43]		********** New session started *********
+[INFO 20:27:49]		********** New session started *********
+[INFO 20:28:38]		********** New session started *********
+[INFO 20:28:46]		********** New session started *********
+[INFO 20:29:02]		********** New session started *********
+[INFO 20:29:43]		********** New session started *********
+[INFO 20:29:52]		********** New session started *********
+[INFO 20:30:13]		********** New session started *********
+[INFO 20:31:26]		********** New session started *********
+[INFO 20:32:53]		********** New session started *********
+[INFO 21:52:26]		********** New session started *********
+[REQUEST 21:52:27]	Enter 'new' or path to existing feature vector.
+[INPUT 21:52:32]	user> new
+[INPUT 21:52:48]	Path: C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[INPUT 21:52:49]	Path: C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 21:52:49]	Enter features you want to use in classification separated by semicolon (;).
+[REQUEST 21:53:05]	Enter name of classifier you want to use.
+[REQUEST 21:53:13]	Enter prediction set you want to use (percentage of training data or path to image you want to classify).
+[INFO 21:54:22]		********** New session started *********
+[REQUEST 21:54:22]	Enter 'new' or path to existing feature vector.
+[INPUT 21:54:25]	user> new
+[INPUT 21:54:38]	Path: C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[INPUT 21:54:39]	Path: C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 21:54:39]	Enter features you want to use in classification separated by semicolon (;).
+[REQUEST 21:54:50]	Enter name of classifier you want to use.
+[REQUEST 21:54:58]	Enter prediction set you want to use (percentage of training data or path to image you want to classify).
+[INFO 21:59:21]		********** New session started *********
+[REQUEST 21:59:22]	Enter 'new' or path to existing feature vector: 
+[INPUT 21:59:26]	user> new
+[INFO 22:01:15]		********** New session started *********
+[REQUEST 22:01:15]	Enter 'new' or path to existing feature vector.
+[INPUT 22:01:17]	user> new
+[REQUEST 22:01:17]	Enter path to folder with real images: 
+[INPUT 22:01:19]	user> asd
+[REQUEST 22:01:19]	Enter path to folder with synthetic images: 
+[INPUT 22:01:21]	user> asd
+[REQUEST 22:01:21]	Enter features you want to use in classification separated by semicolon (;).
+[INPUT 22:01:24]	user> dsa
+[REQUEST 22:01:24]	Enter name of classifier you want to use: 
+[INPUT 22:01:26]	user> dasd
+[REQUEST 22:01:26]	Enter prediction set you want to use (percentage of training data or path to image you want to classify): 
+[INFO 22:02:01]		********** New session started *********
+[REQUEST 22:02:02]	Enter 'new' or path to existing feature vector.
+[INPUT 22:02:03]	user> new
+[REQUEST 22:02:03]	Enter path to folder with real images: 
+[INPUT 22:02:16]	user> C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 22:02:16]	Enter path to folder with synthetic images: 
+[INPUT 22:02:18]	user> C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 22:02:18]	Enter features you want to use in classification separated by semicolon (;).
+[INPUT 22:02:32]	user> cooccurrence_matrices
+[REQUEST 22:02:32]	Enter image channels you want to use in classification separated by semicolon (;).
+[INPUT 22:02:47]	user> R;G;B
+[REQUEST 22:02:47]	Enter offsets you want to use in classification separated by semicolon (;). Example: offset [1,0] and [2,0] will be '10;20'.
+[INPUT 22:03:02]	user> 10;20;40
+[REQUEST 22:03:02]	Enter name of classifier you want to use.
+[INPUT 22:03:13]	user> logistic_regression
+[REQUEST 22:03:13]	Enter prediction set you want to use (percentage of training data or path to image you want to classify). 
+[INPUT 22:03:15]	user> 80
+[INFO 22:03:51]		********** New session started *********
+[ERROR 22:03:51]		Invalid feature type. Get cooccurrence_matrices, expected values: ['matrix', 'avg_saturation', 'unq_colors']
+[INFO 22:04:57]		********** New session started *********
+[INFO 22:06:37]		********** New session started *********
+[INFO 22:06:37]		Checking input...
+[INFO 22:06:37]		Input correct!
+[INFO 22:06:49]		********** New session started *********
+[ERROR 22:06:49]		Invalid feature vector input in test 1. Expected 'new' or path to txt file.
+[INFO 22:07:28]		********** New session started *********
+[INFO 22:07:28]		Checking input...
+[ERROR 22:07:28]		Invalid feature vector input in. Get naew, expected 'new' or path to txt file.
+[INFO 22:08:50]		********** New session started *********
+[INFO 22:08:50]		Checking input...
+[ERROR 22:08:50]		Invalid feature vector. Get naew, expected 'new' or path to txt file.
+[INFO 22:10:00]		********** New session started *********
+[INFO 22:10:00]		Checking input...
+[ERROR 22:10:00]		Invalid image channel. Get 'd', expected values: ['R', 'G', 'B', 'H', 'GRAY']
+[INFO 22:11:24]		********** New session started *********
+[INFO 22:11:24]		Checking input...
+[ERROR 22:11:24]	Invalid image channel. Get 'd', expected values: ['R', 'G', 'B', 'H', 'GRAY']
+[INFO 22:12:47]		********** New session started *********
+[REQUEST 22:12:48]	Enter 'new' or path to existing feature vector.
+[INPUT 22:12:49]	user> new
+[REQUEST 22:12:49]	Enter path to folder with real images: 
+[INPUT 22:12:56]	user> asd
+[REQUEST 22:12:56]	Enter path to folder with synthetic images: 
+[INPUT 22:12:57]	user> d
+[REQUEST 22:12:57]	Enter features you want to use in classification separated by semicolon (;).
+[INPUT 22:13:00]	user> ad
+[REQUEST 22:13:00]	Enter name of classifier you want to use.
+[INPUT 22:13:00]	user> d
+[REQUEST 22:13:00]	Enter prediction set you want to use (percentage of training data or path to image you want to classify). 
+[INPUT 22:13:01]	user> d
+[INFO 22:13:01]		Checking input...
+[ERROR 22:13:01]	Invalid real images location. Path doesn't exist.
+[INFO 22:13:51]		********** New session started *********
+[REQUEST 22:13:52]	Enter 'new' or path to existing feature vector.
+[INPUT 22:13:53]	user> new
+[REQUEST 22:13:53]	Enter path to folder with real images: 
+[INPUT 22:13:54]	user> a
+[REQUEST 22:13:54]	Enter path to folder with synthetic images: 
+[INPUT 22:13:54]	user> a
+[REQUEST 22:13:54]	Enter features you want to use in classification separated by semicolon (;).
+[INPUT 22:13:54]	user> a
+[REQUEST 22:13:54]	Enter name of classifier you want to use.
+[INPUT 22:13:55]	user> a
+[REQUEST 22:13:55]	Enter prediction set you want to use (percentage of training data or path to image you want to classify). 
+[INPUT 22:13:55]	user> a
+[INFO 22:13:55]		Checking input...
+[ERROR 22:13:55]	Invalid real images location. Path 'a' doesn't exist.

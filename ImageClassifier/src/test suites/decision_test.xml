@@ -1,0 +1,21 @@
+<tests>
+    <test name="decision test">
+        <feature_vector>C:\Users\Tazik\Desktop\new\feature vectors\features_vector.txt</feature_vector>
+        <real_images> </real_images>
+        <synthetic_images> </synthetic_images>
+        <features>
+            <feature>
+                <name>cooccurrence_matrices</name>
+                <channels>R;G;B;H;GRAY</channels>
+                <offsets>10;20;40;80;01;02;04;08</offsets>
+            </feature>
+        </features>
+        <save_options>
+            <vector>no</vector>
+            <histograms>no</histograms>
+            <matrices>no</matrices>
+        </save_options>
+        <classifier>logistic_regression</classifier>
+        <prediction_set>C:\Users\Tazik\Desktop\new\render 1.jpg</prediction_set>
+    </test>
+</tests>

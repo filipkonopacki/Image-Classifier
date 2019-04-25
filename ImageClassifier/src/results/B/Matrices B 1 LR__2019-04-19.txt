@@ -1,0 +1,48 @@
+**********Result**********
+Finished: 2019-04-19 01:21:58
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_SVC.xml
+Test name: Matrices B 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['B']
+		Offsets: ['10', '20', '40', '80']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.58	SVC accuracy for test set: 0.59
+Prediction set: 70	Decision: SVC accuracy for train set: 0.58	SVC accuracy for test set: 0.62
+Prediction set: 80	Decision: SVC accuracy for train set: 0.59	SVC accuracy for test set: 0.52
+##########################
+
+**********Result**********
+Finished: 2019-04-19 09:33:41
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\test_channels_SVC.xml
+Test name: Matrices B 1 LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['B']
+		Offsets: ['10', '20', '40', '80']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.49	SVC accuracy for test set: 0.53
+Prediction set: 70	Decision: SVC accuracy for train set: 0.62	SVC accuracy for test set: 0.49
+Prediction set: 80	Decision: SVC accuracy for train set: 0.59	SVC accuracy for test set: 0.58
+##########################
+

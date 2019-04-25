@@ -1,0 +1,186 @@
+[INFO 13:28:22]		********** New session started *********
+[REQUEST 13:28:23]	Enter 'new' or path to existing feature vector.
+[INFO 13:29:18]		********** New session started *********
+[REQUEST 13:29:18]	Enter 'new' or path to existing feature vector.
+[INPUT 13:29:21]	user> new
+[REQUEST 13:29:21]	Enter path to folder with real images: 
+[INFO 13:29:43]		********** New session started *********
+[ERROR 13:29:43]	Error during xml parse
+[RESULT 13:29:43]	Program stops with status: pass
+[INFO 13:57:45]		********** New session started *********
+[ERROR 13:57:45]	Error during xml parse
+[RESULT 13:57:50]	Program stops with status: fail
+[INFO 13:58:03]		********** New session started *********
+[RESULT 13:58:03]	Program stops with status: pass
+[INFO 13:58:16]		********** New session started *********
+[RESULT 13:58:16]	Program stops with status: pass
+[INFO 13:58:30]		********** New session started *********
+[RESULT 13:58:30]	Program stops with status: pass
+[INFO 13:59:01]		********** New session started *********
+[RESULT 13:59:01]	Program stops with status: pass
+[INFO 14:01:14]		********** New session started *********
+[REQUEST 14:01:14]	Enter 'new' or path to existing feature vector.
+[INFO 14:02:00]		********** New session started *********
+[REQUEST 14:02:00]	Enter 'new' or path to existing feature vector.
+[INFO 14:02:10]		********** New session started *********
+[ERROR 14:02:10]	Error during xml parse
+[RESULT 14:02:14]	Program stops with status: fail
+[INFO 14:03:05]		********** New session started *********
+[ERROR 14:03:05]	Error during xml parse
+[RESULT 14:03:15]	Program stops with status: fail
+[INFO 14:04:50]		********** New session started *********
+[ERROR 14:04:50]	Error during xml parse
+[RESULT 14:04:52]	Program stops with status: fail
+[INFO 14:05:25]		********** New session started *********
+[ERROR 14:05:25]	Error during xml parse
+[RESULT 14:05:26]	Program stops with status: fail
+[INFO 14:06:12]		********** New session started *********
+[RESULT 14:06:12]	Program stops with status: pass
+[INFO 14:06:39]		********** New session started *********
+[RESULT 14:06:39]	Program stops with status: pass
+[INFO 14:07:27]		********** New session started *********
+[ERROR 14:07:27]	Error during xml parse
+[RESULT 14:07:29]	Program stops with status: fail
+[INFO 14:13:42]		********** New session started *********
+[RESULT 14:13:42]	Program stops with status: pass
+[INFO 14:15:42]		********** New session started *********
+[RESULT 14:15:42]	Program stops with status: pass
+[INFO 14:17:35]		********** New session started *********
+[RESULT 14:17:35]	Program stops with status: pass
+[INFO 14:21:35]		********** New session started *********
+[INFO 14:21:35]		Checking input...
+[INFO 14:21:35]		Input correct!
+[INFO 14:21:35]		Checking input...
+[ERROR 14:21:35]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 14:21:35]	Program stops with status: pass
+[INFO 14:22:55]		********** New session started *********
+[INFO 14:22:56]		Checking input...
+[INFO 14:22:56]		Input correct!
+[INFO 14:22:56]		Checking input...
+[ERROR 14:22:56]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 14:22:56]	Program stops with status: pass
+[INFO 14:23:35]		********** New session started *********
+[INFO 14:23:36]		Checking input...
+[INFO 14:23:36]		Input correct!
+[INFO 14:23:36]		Checking input...
+[ERROR 14:23:36]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 14:23:36]	Program stops with status: pass
+[INFO 14:24:55]		********** New session started *********
+[ERROR 14:24:56]	Error during xml parse
+[RESULT 14:24:58]	Program stops with status: fail
+[INFO 14:25:07]		********** New session started *********
+[INFO 14:25:07]		Checking input...
+[INFO 14:25:07]		Input correct!
+[INFO 14:25:07]		Checking input...
+[ERROR 14:25:07]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 14:25:07]	Program stops with status: pass
+[INFO 14:26:38]		********** New session started *********
+[INFO 14:26:38]		Checking input...
+[ERROR 14:26:38]	Invalid feature vector. Get 'nsew', expected 'new' or path to txt file.
+[INFO 14:26:38]		Checking input...
+[ERROR 14:26:38]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[ERROR 14:26:38]	Test suite is empty. Error during tests creation.
+[RESULT 14:26:48]	Program stops with status: fail
+[INFO 14:34:06]		********** New session started *********
+[RESULT 14:34:06]	Program stops with status: fail
+[INFO 14:34:17]		********** New session started *********
+[RESULT 14:34:17]	Program stops with status: fail
+[INFO 14:34:52]		********** New session started *********
+[REQUEST 14:34:53]	Enter 'new' or path to existing feature vector.
+[INPUT 14:35:03]	user> new
+[REQUEST 14:35:03]	Enter path to folder with real images: 
+[INPUT 14:35:11]	user> C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 14:35:11]	Enter path to folder with synthetic images: 
+[INPUT 14:35:12]	user> C:\Users\Tazik\Desktop\ImageClassifier\ImageClassifier\src\test suites
+[REQUEST 14:35:12]	Enter features you want to use in classification separated by semicolon (;).
+[INPUT 14:35:21]	user> cooccurrence_matrices
+[REQUEST 14:35:21]	Enter image channels you want to use in classification separated by semicolon (;).
+[INPUT 14:35:26]	user> R;G;B
+[REQUEST 14:35:26]	Enter offsets you want to use in classification separated by semicolon (;). Example: offset [1,0] and [2,0] will be '10;20'.
+[INPUT 14:35:30]	user> 10;20
+[REQUEST 14:35:30]	Enter name of classifier you want to use.
+[INPUT 14:35:38]	user> logistic_regression
+[REQUEST 14:35:38]	Enter prediction set you want to use (percentage of training data or path to image you want to classify). 
+[INPUT 14:35:42]	user> 80
+[INFO 14:35:42]		Checking input...
+[INFO 14:35:42]		Input correct!
+[RESULT 14:35:42]	Program stops with status: pass
+[INFO 15:26:51]		********** New session started *********
+[REQUEST 15:26:51]	Enter 'new' or path to existing feature vector.
+[RESULT 15:26:55]	Program stops with status: fail
+[INFO 15:27:02]		********** New session started *********
+[REQUEST 15:27:02]	Enter 'new' or path to existing feature vector.
+[RESULT 15:27:03]	Program stops with status: fail
+[INFO 15:28:27]		********** New session started *********
+[RESULT 15:28:27]	Program stops with status: fail
+[INFO 15:28:42]		********** New session started *********
+[INFO 15:28:43]		Checking input...
+[INFO 15:28:43]		Input correct!
+[INFO 15:28:43]		Checking input...
+[ERROR 15:28:43]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 15:28:53]	Program stops with status: fail
+[INFO 15:29:05]		********** New session started *********
+[REQUEST 15:29:06]	Enter 'new' or path to existing feature vector.
+[RESULT 15:29:08]	Program stops with status: fail
+[INFO 19:15:04]		********** New session started *********
+[INFO 19:15:04]		Checking input...
+[INFO 19:15:04]		Input correct!
+[INFO 19:15:09]		Checking input...
+[ERROR 19:15:09]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:15:19]	Program stops with status: fail
+[INFO 19:16:05]		********** New session started *********
+[INFO 19:16:06]		Checking input...
+[INFO 19:16:06]		Input correct!
+[INFO 19:16:09]		Checking input...
+[ERROR 19:16:09]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:16:19]	Program stops with status: fail
+[INFO 19:18:00]		********** New session started *********
+[INFO 19:18:01]		Checking input...
+[INFO 19:18:01]		Input correct!
+[INFO 19:18:04]		Checking input...
+[ERROR 19:18:04]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:18:04]	Program stops with status: fail
+[INFO 19:18:38]		********** New session started *********
+[INFO 19:18:38]		Checking input...
+[INFO 19:18:38]		Input correct!
+[INFO 19:18:42]		Checking input...
+[ERROR 19:18:42]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:18:42]	Program stops with status: pass
+[INFO 19:21:11]		********** New session started *********
+[INFO 19:21:12]		Checking input...
+[INFO 19:21:12]		Input correct!
+[INFO 19:21:15]		Checking input...
+[ERROR 19:21:15]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:21:15]	Program stops with status: pass
+[INFO 19:22:53]		********** New session started *********
+[INFO 19:22:54]		Checking input...
+[INFO 19:22:54]		Input correct!
+[INFO 19:22:57]		Checking input...
+[ERROR 19:22:57]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:22:57]	Program stops with status: pass
+[INFO 19:24:06]		********** New session started *********
+[INFO 19:24:06]		Checking input...
+[INFO 19:24:06]		Input correct!
+[INFO 19:24:09]		Checking input...
+[ERROR 19:24:09]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:24:09]	Program stops with status: pass
+[INFO 19:29:22]		********** New session started *********
+[INFO 19:29:22]		Checking input...
+[INFO 19:29:22]		Input correct!
+[INFO 19:29:26]		Checking input...
+[ERROR 19:29:26]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[RESULT 19:29:26]	Program stops with status: pass
+[INFO 19:31:01]		********** New session started *********
+[INFO 19:31:01]		Checking input...
+[INFO 19:31:01]		Input correct!
+[INFO 19:31:04]		Checking input...
+[ERROR 19:31:04]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[ERROR 19:31:04]	Error during setting up test suite.
+[RESULT 19:31:14]	Program stops with status: fail
+[INFO 19:31:55]		********** New session started *********
+[INFO 19:31:55]		Checking input...
+[INFO 19:31:55]		Input correct!
+[INFO 19:31:58]		Checking input...
+[ERROR 19:31:58]	Invalid feature vector. Get 'existing', expected 'new' or path to txt file.
+[ERROR 19:31:58]	Error during setting up test suite.
+[RESULT 19:32:08]	Program stops with status: FAIL

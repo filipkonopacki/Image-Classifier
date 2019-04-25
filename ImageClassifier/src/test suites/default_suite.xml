@@ -1,0 +1,21 @@
+<tests>
+    <test name="default">
+        <feature_vector>new</feature_vector>
+        <real_images>C:\Users\fkonopac\Pictures\photo\landscape</real_images>
+        <synthetic_images>C:\Users\fkonopac\Pictures\render\landscape</synthetic_images>
+        <features>
+            <feature>
+                <name>cooccurrence_matrices</name>
+                <channels>R;G;B;H;GRAY</channels>
+                <offsets>10;20;40;80;01;02;04;08</offsets>
+            </feature>
+        </features>
+        <save_options>
+            <vector>no</vector>
+            <histograms>no</histograms>
+            <matrices>no</matrices>
+        </save_options>
+        <classifier>logistic_regression</classifier>
+        <prediction_set>80</prediction_set>
+    </test>
+</tests>

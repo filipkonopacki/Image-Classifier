@@ -1,0 +1,60 @@
+**********Result**********
+Finished: 2019-04-11 14:04:36
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default with gamma scale
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.62	SVC accuracy for test set: 0.73
+Prediction set: 70	Decision: SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.71
+Prediction set: 80	Decision: SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.7
+##########################
+
+**********Result**********
+Finished: 2019-04-11 14:12:13
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default with gamma scale
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: SVC accuracy for train set: 0.69	SVC accuracy for test set: 0.7
+Prediction set: 70	Decision: SVC accuracy for train set: 0.72	SVC accuracy for test set: 0.62
+Prediction set: 80	Decision: SVC accuracy for train set: 0.67	SVC accuracy for test set: 0.78
+##########################
+
+**********Result**********
+Finished: 2019-04-11 14:21:29
+Test xml: C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\test suites\test_suite.xml
+Test name: default with gamma scale
+Features vector location: C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: cooccurrence_matrices
+		Channels: ['R', 'G', 'B', 'H', 'GRAY']
+		Offsets: ['10', '20', '40', '80', '01', '02', '04', '08']
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\photo 1.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\fkonopac\Desktop\final\final\new\render 1.jpg	Decision: ['synthetic']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.64
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.64
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.73
+##########################
+

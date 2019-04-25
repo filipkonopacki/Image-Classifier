@@ -1,0 +1,370 @@
+[INFO 11:52:11]		********** New session started *********
+[REQUEST 11:52:11]	Do you want to use existing features vector or calculate new one?
+[INPUT 11:52:14]	user> E
+[INFO 11:52:14]		Loading features vector from file...
+[REQUEST 11:52:14]	Enter path to txt file with saved features vector: 
+[INPUT 11:52:20]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[RESULT 11:52:20]	Program stops with status: pass
+[INFO 11:53:08]		********** New session started *********
+[REQUEST 11:53:08]	Do you want to use existing features vector or calculate new one?
+[INPUT 11:53:10]	user> E
+[INFO 11:53:10]		Loading features vector from file...
+[REQUEST 11:53:10]	Enter path to txt file with saved features vector: 
+[INPUT 11:53:21]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 11:53:21]	Enter folder path in which you want to save histograms: 
+[INPUT 11:53:34]	user> C:\Users\Tazik\Documents\Python\histograms
+[INFO 11:53:34]		Preparing data...
+[RESULT 11:53:34]	Program stops with status: pass
+[INFO 11:56:11]		********** New session started *********
+[REQUEST 11:56:12]	Do you want to use existing features vector or calculate new one?
+[INPUT 11:56:13]	user> E
+[INFO 11:56:13]		Loading features vector from file...
+[REQUEST 11:56:13]	Enter path to txt file with saved features vector: 
+[INPUT 11:56:18]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 11:56:18]	Enter folder path in which you want to save histograms: 
+[INPUT 11:56:21]	user> C:\Users\Tazik\Documents\Python\histograms\
+[INFO 11:56:21]		Preparing data...
+[RESULT 11:56:21]	Program stops with status: pass
+[INFO 12:01:34]		********** New session started *********
+[REQUEST 12:01:35]	Do you want to use existing features vector or calculate new one?
+[INPUT 12:01:36]	user> E
+[INFO 12:01:36]		Loading features vector from file...
+[REQUEST 12:01:36]	Enter path to txt file with saved features vector: 
+[INPUT 12:01:43]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 12:01:43]	Enter folder path in which you want to save histograms: 
+[INPUT 12:02:06]	user> C:\Users\Tazik\Documents\Python\histograms
+[INFO 12:02:06]		Preparing data...
+[INFO 12:02:06]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\
+[INFO 12:02:06]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic
+[INFO 12:02:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_R.png
+[INFO 12:02:06]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\
+[INFO 12:02:06]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_G.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_B.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_H.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_R.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_G.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic
+[INFO 12:02:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_B.png
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\
+[INFO 12:02:07]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic
+[INFO 12:02:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_H.png
+[RESULT 12:02:08]	Program stops with status: fail
+[INFO 12:50:19]		********** New session started *********
+[REQUEST 12:50:19]	Do you want to use existing features vector or calculate new one?
+[INPUT 12:50:21]	user> E
+[INFO 12:50:21]		Loading features vector from file...
+[REQUEST 12:50:21]	Enter path to txt file with saved features vector: 
+[INPUT 12:50:25]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 12:50:25]	Enter folder path in which you want to save histograms: 
+[INPUT 12:50:32]	user> C:\Users\Tazik\Documents\Python\histograms
+[INFO 12:50:32]		Preparing data...
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_R.png
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_G.png
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_B.png
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_H.png
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_GRAY.png
+[INFO 12:50:33]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_R.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_G.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_B.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_H.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_GRAY.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_R.png
+[INFO 12:50:34]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_G.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_B.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_H.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_GRAY.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_R.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_G.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_B.png
+[INFO 12:50:35]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_H.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_GRAY.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_R.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_G.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_B.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_H.png
+[INFO 12:50:36]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_GRAY.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_R.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_G.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_B.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_H.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_GRAY.png
+[INFO 12:50:37]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_R.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_G.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_B.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_H.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_GRAY.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_R.png
+[INFO 12:50:38]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_G.png
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_B.png
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_H.png
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_GRAY.png
+[INFO 12:50:39]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_R.png
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_G.png
+[INFO 12:50:39]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_B.png
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_H.png
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_GRAY.png
+[INFO 12:50:40]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_R.png
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_G.png
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_B.png
+[INFO 12:50:40]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_H.png
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_GRAY.png
+[INFO 12:50:41]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_R.png
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_G.png
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_B.png
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_H.png
+[INFO 12:50:41]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_GRAY.png
+[INFO 12:50:41]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_R.png
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_G.png
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_B.png
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_H.png
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_GRAY.png
+[INFO 12:50:42]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real
+[INFO 12:50:42]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_R.png
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_G.png
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_B.png
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_H.png
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_GRAY.png
+[INFO 12:50:43]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_R.png
+[INFO 12:50:43]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_G.png
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_B.png
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_H.png
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_GRAY.png
+[INFO 12:50:44]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_R.png
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_G.png
+[INFO 12:50:44]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_B.png
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_H.png
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_GRAY.png
+[INFO 12:50:45]		Folder created at: C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_R.png
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_G.png
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_B.png
+[INFO 12:50:45]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_H.png
+[INFO 12:50:46]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_GRAY.png
+[RESULT 12:50:46]	Program stops with status: pass
+[INFO 13:04:14]		********** New session started *********
+[REQUEST 13:04:15]	Do you want to use existing features vector or calculate new one?
+[INPUT 13:04:16]	user> E
+[INFO 13:04:16]		Loading features vector from file...
+[REQUEST 13:04:16]	Enter path to txt file with saved features vector: 
+[INPUT 13:04:22]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 13:04:22]	Do you want to save histograms of features?
+[INPUT 13:04:29]	user> Y
+[INFO 13:04:29]		Histograms of features will be saved
+[REQUEST 13:04:29]	Enter folder path in which you want to save histograms: 
+[INPUT 13:05:01]	user> C:\Users\Tazik\Documents\Python\histograms
+[INFO 13:05:01]		Preparing data...
+[INFO 13:05:01]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_R.png
+[INFO 13:05:01]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_G.png
+[INFO 13:05:01]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_B.png
+[INFO 13:05:01]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_H.png
+[INFO 13:05:01]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\synthetic\histogram_GRAY.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_R.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_G.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_B.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_H.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\synthetic\histogram_GRAY.png
+[INFO 13:05:02]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_R.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_G.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_B.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_H.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\synthetic\histogram_GRAY.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_R.png
+[INFO 13:05:03]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_G.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_B.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_H.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\synthetic\histogram_GRAY.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_R.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_G.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_B.png
+[INFO 13:05:04]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_H.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\synthetic\histogram_GRAY.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_R.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_G.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_B.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_H.png
+[INFO 13:05:05]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\synthetic\histogram_GRAY.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_R.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_G.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_B.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_H.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\synthetic\histogram_GRAY.png
+[INFO 13:05:06]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_R.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_G.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_B.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_H.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\synthetic\histogram_GRAY.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_R.png
+[INFO 13:05:07]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_G.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_B.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_H.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[1,0]\real\histogram_GRAY.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_R.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_G.png
+[INFO 13:05:08]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_B.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_H.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[2,0]\real\histogram_GRAY.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_R.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_G.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_B.png
+[INFO 13:05:09]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_H.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[4,0]\real\histogram_GRAY.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_R.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_G.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_B.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_H.png
+[INFO 13:05:10]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[8,0]\real\histogram_GRAY.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_R.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_G.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_B.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_H.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,1]\real\histogram_GRAY.png
+[INFO 13:05:11]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_R.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_G.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_B.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_H.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,2]\real\histogram_GRAY.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_R.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_G.png
+[INFO 13:05:12]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_B.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_H.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,4]\real\histogram_GRAY.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_R.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_G.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_B.png
+[INFO 13:05:13]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_H.png
+[INFO 13:05:14]		Histogram saved in C:\Users\Tazik\Documents\Python\histograms\offset[0,8]\real\histogram_GRAY.png
+[RESULT 13:05:14]	Program stops with status: pass
+[INFO 15:59:37]		********** New session started *********
+[REQUEST 15:59:37]	Do you want to use existing features vector or calculate new one?
+[INPUT 15:59:39]	user> E
+[INFO 15:59:39]		Loading features vector from file...
+[REQUEST 15:59:39]	Enter path to txt file with saved features vector: 
+[INPUT 15:59:45]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 15:59:45]	Do you want to save histograms of features?
+[INPUT 15:59:47]	user> N
+[INFO 15:59:47]		Histograms of features will not be saved
+[RESULT 15:59:47]	Program stops with status: fail
+[INFO 16:00:12]		********** New session started *********
+[REQUEST 16:00:13]	Do you want to use existing features vector or calculate new one?
+[INPUT 16:00:14]	user> E
+[INFO 16:00:14]		Loading features vector from file...
+[REQUEST 16:00:14]	Enter path to txt file with saved features vector: 
+[INPUT 16:00:19]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 16:00:20]	Do you want to save histograms of features?
+[INPUT 16:00:22]	user> N
+[INFO 16:00:22]		Histograms of features will not be saved
+[RESULT 16:00:22]	Program stops with status: fail
+[INFO 16:05:35]		********** New session started *********
+[REQUEST 16:05:35]	Do you want to use existing features vector or calculate new one?
+[INPUT 16:05:36]	user> E
+[INFO 16:05:36]		Loading features vector from file...
+[REQUEST 16:05:36]	Enter path to txt file with saved features vector: 
+[INPUT 16:05:41]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 16:05:41]	Do you want to save histograms of features?
+[INPUT 16:05:42]	user> N
+[INFO 16:05:42]		Histograms of features will not be saved
+[RESULT 16:05:42]	Program stops with status: fail
+[INFO 16:06:31]		********** New session started *********
+[REQUEST 16:06:31]	Do you want to use existing features vector or calculate new one?
+[INPUT 16:06:32]	user> E
+[INFO 16:06:32]		Loading features vector from file...
+[REQUEST 16:06:32]	Enter path to txt file with saved features vector: 
+[INPUT 16:06:36]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 16:06:36]	Do you want to save histograms of features?
+[INPUT 16:06:39]	user> N
+[INFO 16:06:39]		Histograms of features will not be saved
+[RESULT 16:06:39]	Program stops with status: fail
+[INFO 16:10:33]		********** New session started *********
+[REQUEST 16:10:33]	Do you want to use existing features vector or calculate new one?
+[INPUT 16:10:34]	user> E
+[INFO 16:10:34]		Loading features vector from file...
+[REQUEST 16:10:34]	Enter path to txt file with saved features vector: 
+[INPUT 16:10:39]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 16:10:39]	Do you want to save histograms of features?
+[INPUT 16:10:40]	user> N
+[INFO 16:10:40]		Histograms of features will not be saved
+[RESULT 16:10:40]	Program stops with status: pass
+[INFO 17:27:55]		********** New session started *********
+[INFO 17:43:22]		********** New session started *********
+[REQUEST 17:43:24]	Do you want to use existing features vector or calculate new one?
+[INPUT 17:43:26]	user> E
+[INFO 17:43:26]		Loading features vector from file...
+[REQUEST 17:43:26]	Enter path to txt file with saved features vector: 
+[INPUT 17:43:31]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 17:43:31]	Do you want to save histograms of features?
+[INPUT 17:43:33]	user> N
+[INFO 17:43:33]		Histograms of features will not be saved
+[INFO 17:43:33]		Features vector created successfully.
+[RESULT 17:43:33]	Program stops with status: fail
+[INFO 17:45:15]		********** New session started *********
+[REQUEST 17:45:15]	Do you want to use existing features vector or calculate new one?
+[INPUT 17:45:16]	user> E
+[INFO 17:45:16]		Loading features vector from file...
+[REQUEST 17:45:16]	Enter path to txt file with saved features vector: 
+[INPUT 17:45:21]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 17:45:21]	Do you want to save histograms of features?
+[INPUT 17:45:23]	user> N
+[INFO 17:45:23]		Histograms of features will not be saved
+[INFO 17:45:23]		Features vector created successfully.
+[REQUEST 17:45:23]	Enter percentage of training data you want to use: 
+[RESULT 17:45:29]	Program stops with status: fail
+[INFO 17:46:28]		********** New session started *********
+[REQUEST 17:46:29]	Do you want to use existing features vector or calculate new one?
+[INPUT 17:46:31]	user> E
+[INFO 17:46:31]		Loading features vector from file...
+[REQUEST 17:46:31]	Enter path to txt file with saved features vector: 
+[INPUT 17:46:35]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 17:46:35]	Do you want to save histograms of features?
+[INPUT 17:46:37]	user> N
+[INFO 17:46:37]		Histograms of features will not be saved
+[INFO 17:46:37]		Features vector created successfully.
+[REQUEST 17:46:37]	Enter percentage of training data you want to use: 
+[RESULT 17:46:40]	Program stops with status: fail
+[INFO 17:47:14]		********** New session started *********
+[REQUEST 17:47:14]	Do you want to use existing features vector or calculate new one?
+[INPUT 17:47:15]	user> E
+[INFO 17:47:15]		Loading features vector from file...
+[REQUEST 17:47:15]	Enter path to txt file with saved features vector: 
+[INPUT 17:47:20]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 17:47:20]	Do you want to save histograms of features?
+[INPUT 17:47:23]	user> N
+[INFO 17:47:23]		Histograms of features will not be saved
+[INFO 17:47:23]		Features vector created successfully.
+[REQUEST 17:47:23]	Enter percentage of training data you want to use: 
+[INFO 17:47:26]		Split data: 70% of training data and 30% of test data
+[INFO 17:47:26]		Training model...
+[RESULT 17:47:26]	Logistic regression accuracy for train set: 0.7222222222222222
+[RESULT 17:47:26]	Logistic regression accuracy for test set: 0.6
+[RESULT 17:47:26]	Program stops with status: pass
+[INFO 17:48:57]		********** New session started *********
+[REQUEST 17:48:58]	Do you want to use existing features vector or calculate new one?
+[INPUT 17:48:59]	user> E
+[INFO 17:48:59]		Loading features vector from file...
+[REQUEST 17:48:59]	Enter path to txt file with saved features vector: 
+[INPUT 17:49:07]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 17:49:07]	Do you want to save histograms of features?
+[INPUT 17:49:08]	user> N
+[INFO 17:49:08]		Histograms of features will not be saved
+[INFO 17:49:08]		Features vector created successfully.
+[REQUEST 17:49:08]	Enter percentage of training data you want to use: 
+[INFO 17:49:11]		Split data: 80% of training data and 20% of test data
+[INFO 17:49:11]		Training model...
+[RESULT 17:49:11]	Logistic regression accuracy for train set: 0.7013888888888888
+[RESULT 17:49:11]	Logistic regression accuracy for test set: 0.7567567567567568
+[RESULT 17:49:11]	Program stops with status: pass

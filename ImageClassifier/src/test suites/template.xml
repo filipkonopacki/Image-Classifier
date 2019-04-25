@@ -1,0 +1,40 @@
+<tests>
+    <test name="template">
+        <feature_vector>new or path to txt file with exiting feature vector</feature_vector>
+        <real_images>path to folder with real images or white space if existing feature vector passed</real_images>
+        <synthetic_images>path to folder with real images or white space if existing feature vector passed</synthetic_images>
+        <features>
+            <feature>
+                <name>feature name, expected: cooccurence_matrices, avg_saturation or unique_colors</name>
+                <channels>image channels for co-occurrence matrices calculations separated by semicolon, expected: R, G, B, H, GRAY</channels>
+                <offsets>offsets used in co-occurrence matrices calculations separated by semicolon, expected: 10, 20, 40, 80, 01, 02, 04, 08</offsets>
+            </feature>
+        </features>
+        <save_options>
+            <vector>path to txt file where feature vector should be saved</vector>
+            <histograms>path to txt file where features histograms should be saved</histograms>
+            <matrices>path to txt file where co-occurrence matrices should be saved</matrices>
+        </save_options>
+        <classifier>classifier name, expected: logistic_regression or SVC</classifier>
+        <prediction_set>percentage of training data (integer) or/and path to test image/s separated by semicolon</prediction_set>
+    </test>
+    <test name="example">
+        <feature_vector>new</feature_vector>
+        <real_images>C:\Users\Filip\Desktop\thesis\real</real_images>
+        <synthetic_images>C:\Users\Filip\Desktop\thesis\synthetic</synthetic_images>
+        <features>
+            <feature>
+                <name>cooccurrence_matrices</name>
+                <channels>R;G;GRAY</channels>
+                <offsets>01;02;04;08</offsets>
+            </feature>
+        </features>
+        <save_options>
+            <vector>no</vector>
+            <histograms>no</histograms>
+            <matrices>no</matrices>
+        </save_options>
+        <classifier>logistic_regression</classifier>
+        <prediction_set>60;70;80;C:\Users\Filip\Desktop\thesis\test images\DSC_0296-2.jpg</prediction_set>
+    </test>
+</tests>

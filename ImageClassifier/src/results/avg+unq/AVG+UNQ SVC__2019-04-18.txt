@@ -1,0 +1,46 @@
+**********Result**********
+Finished: 2019-04-18 20:34:22
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\svc.xml
+Test name: AVG+UNQ SVC
+Features vector location: C:\Users\Tazik\Desktop\thesis\feature vectors\feature_vector_avg_unq.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: avg_saturation
+	Name: unique_colors
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.5
+Prediction set: 70	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.44
+Prediction set: 80	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.46
+##########################
+
+**********Result**********
+Finished: 2019-04-18 20:58:49
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\svc.xml
+Test name: AVG+UNQ SVC
+Features vector location: C:\Users\Tazik\Desktop\thesis\feature vectors\feature_vector_avg_unq.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: avg_saturation
+	Name: unique_colors
+Classifier: SVC
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.5
+Prediction set: 70	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.47
+Prediction set: 80	Decision: SVC accuracy for train set: 1.0	SVC accuracy for test set: 0.5
+##########################
+

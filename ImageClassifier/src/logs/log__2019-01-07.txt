@@ -1,0 +1,16 @@
+[INFO 20:14:00]		********** New session started *********
+[REQUEST 20:14:05]	Do you want to use existing features vector or calculate new one?
+[INPUT 20:14:39]	user> E
+[INFO 20:14:39]		Loading features vector from file...
+[REQUEST 20:14:39]	Enter path to txt file with saved features vector: 
+[INPUT 20:14:56]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 20:14:56]	Do you want to save histograms of features?
+[INPUT 20:15:00]	user> N
+[INFO 20:15:00]		Histograms of features will not be saved
+[INFO 20:15:00]		Features vector created successfully.
+[REQUEST 20:15:00]	Enter percentage of training data you want to use: 
+[INFO 20:15:19]		Split data: 80% of training data and 20% of test data
+[INFO 20:15:19]		Training model...
+[RESULT 20:15:19]	Logistic regression accuracy for train set: 0.6944444444444444
+[RESULT 20:15:19]	Logistic regression accuracy for test set: 0.6486486486486487
+[RESULT 20:15:19]	Program stops with status: pass

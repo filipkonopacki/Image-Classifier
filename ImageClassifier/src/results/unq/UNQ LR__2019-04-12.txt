@@ -1,0 +1,24 @@
+**********Result**********
+Finished: 2019-04-12 17:17:55
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\first_run.xml
+Test name: UNQ LR
+Features vector location: new
+Real images location: C:\Users\Tazik\Desktop\thesis\real
+Synthetic images location: C:\Users\Tazik\Desktop\thesis\synthetic
+Features:
+	Name: unique_colors
+histograms saved in: C:\Users\Tazik\Desktop\thesis\histograms
+vector saved in: C:\Users\Tazik\Desktop\thesis\feature vectors\feature_vector_unq.txt
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['synthetic']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.81	logistic_regression accuracy for test set: 0.76
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.76	logistic_regression accuracy for test set: 0.83
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.78	logistic_regression accuracy for test set: 0.79
+##########################
+

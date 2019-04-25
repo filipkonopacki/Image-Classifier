@@ -1,0 +1,495 @@
+[INFO 12:51:33]		********** New session started *********
+[INFO 12:51:35]		Checking input...
+[ERROR 12:51:35]	Invalid feature vector. Get 'C:\Users\Tazik\Desktop\new\feature vectors\features_vector.txt', expected 'new' or path to txt file.
+[ERROR 12:51:35]	Error during setting up test suite for test default.
+[RESULT 12:51:45]	Program stops with status: FAIL
+[INFO 12:52:14]		********** New session started *********
+[INFO 12:52:14]		Checking input...
+[ERROR 12:52:14]	Error during setting up test suite for test default.
+[RESULT 12:52:24]	Program stops with status: FAIL
+[INFO 12:52:33]		********** New session started *********
+[INFO 12:52:34]		Checking input...
+[ERROR 12:52:34]	Error during setting up test suite for test default.
+[RESULT 12:52:44]	Program stops with status: FAIL
+[INFO 12:53:28]		********** New session started *********
+[INFO 12:53:29]		Checking input...
+[ERROR 12:53:29]	Error during setting up test suite for test default.
+[RESULT 12:53:39]	Program stops with status: FAIL
+[INFO 12:54:35]		********** New session started *********
+[INFO 12:54:36]		Checking input...
+[ERROR 12:54:36]	Error during setting up test suite for test default.
+[RESULT 12:54:46]	Program stops with status: FAIL
+[INFO 12:55:49]		********** New session started *********
+[INFO 12:55:50]		Checking input...
+[ERROR 12:55:50]	Error during setting up test suite for test default.
+[RESULT 12:56:00]	Program stops with status: FAIL
+[INFO 12:57:55]		********** New session started *********
+[INFO 12:57:55]		Checking input...
+[ERROR 12:57:55]	Error during setting up test suite for test default.
+[RESULT 12:58:05]	Program stops with status: FAIL
+[INFO 12:59:15]		********** New session started *********
+[INFO 12:59:15]		Checking input...
+[ERROR 12:59:15]	Error during setting up test suite for test default.
+[RESULT 12:59:25]	Program stops with status: FAIL
+[INFO 13:01:07]		********** New session started *********
+[INFO 13:01:08]		Checking input...
+[INFO 13:01:08]		Input correct!
+[INFO 13:01:08]		**********Starting test default **********
+[INFO 13:01:08]		Making feature vector for test image.
+[INFO 13:02:26]		Done
+[INFO 13:02:26]		Making feature vector for test image.
+[INFO 13:02:38]		Done
+[INFO 13:02:38]		Split data: 60% of training data and 40% of test data
+[INFO 13:02:38]		Training model...
+[RESULT 13:02:38]	logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.7
+[INFO 13:02:38]		Split data: 70% of training data and 30% of test data
+[INFO 13:02:38]		Training model...
+[RESULT 13:02:38]	logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.65
+[INFO 13:02:38]		Split data: 80% of training data and 20% of test data
+[INFO 13:02:38]		Training model...
+[RESULT 13:02:38]	logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.65
+[INFO 13:02:38]		Training model...
+[RESULT 13:02:38]	Program stops with status: FAIL
+[INFO 13:09:58]		********** New session started *********
+[INFO 13:09:59]		Checking input...
+[INFO 13:09:59]		Input correct!
+[INFO 13:09:59]		**********Starting test default **********
+[INFO 13:09:59]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:09:59]		Done
+[INFO 13:09:59]		Making feature vector for test image.
+[INFO 13:11:16]		Done
+[INFO 13:11:16]		Making feature vector for test image.
+[INFO 13:11:28]		Done
+[INFO 13:11:28]		Split data: 60% of training data and 40% of test data
+[INFO 13:11:28]		Training model...
+[RESULT 13:11:28]	logistic_regression accuracy for train set: 0.72	logistic_regression accuracy for test set: 0.64
+[INFO 13:11:28]		Split data: 70% of training data and 30% of test data
+[INFO 13:11:28]		Training model...
+[RESULT 13:11:28]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.6
+[INFO 13:11:28]		Split data: 80% of training data and 20% of test data
+[INFO 13:11:28]		Training model...
+[RESULT 13:11:28]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.65
+[INFO 13:11:28]		Training model...
+[RESULT 13:11:28]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 13:11:28]		Training model...
+[RESULT 13:11:28]	Program stops with status: FAIL
+[INFO 13:25:31]		********** New session started *********
+[INFO 13:25:32]		Checking input...
+[INFO 13:25:32]		Input correct!
+[INFO 13:25:32]		**********Starting test default **********
+[INFO 13:25:32]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:25:32]		Done
+[INFO 13:25:32]		Making feature vector for test image.
+[RESULT 13:26:08]	Program stops with status: FAIL
+[INFO 13:26:09]		********** New session started *********
+[INFO 13:26:10]		Checking input...
+[INFO 13:26:10]		Input correct!
+[INFO 13:26:10]		**********Starting test default **********
+[INFO 13:26:10]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:26:10]		Done
+[INFO 13:26:10]		Making feature vector for test image.
+[INFO 13:27:27]		Done
+[INFO 13:27:27]		Making feature vector for test image.
+[INFO 13:27:38]		Done
+[INFO 13:27:38]		Split data: 60% of training data and 40% of test data
+[INFO 13:27:38]		Training model...
+[RESULT 13:27:38]	logistic_regression accuracy for train set: 0.71	logistic_regression accuracy for test set: 0.66
+[INFO 13:27:38]		Split data: 70% of training data and 30% of test data
+[INFO 13:27:38]		Training model...
+[RESULT 13:27:38]	logistic_regression accuracy for train set: 0.65	logistic_regression accuracy for test set: 0.75
+[INFO 13:27:38]		Split data: 80% of training data and 20% of test data
+[INFO 13:27:38]		Training model...
+[RESULT 13:27:38]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.73
+[INFO 13:27:38]		Training model...
+[RESULT 13:27:38]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 13:27:38]		Training model...
+[RESULT 13:27:38]	Program stops with status: FAIL
+[INFO 13:31:24]		********** New session started *********
+[INFO 13:31:25]		Checking input...
+[INFO 13:31:25]		Input correct!
+[INFO 13:31:25]		**********Starting test default **********
+[INFO 13:31:25]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:31:25]		Done
+[INFO 13:31:25]		Making feature vector for test image.
+[INFO 13:32:42]		Done
+[INFO 13:32:42]		Making feature vector for test image.
+[INFO 13:32:54]		Done
+[INFO 13:32:54]		Split data: 60% of training data and 40% of test data
+[INFO 13:32:54]		Training model...
+[RESULT 13:32:54]	logistic_regression accuracy for train set: 0.73	logistic_regression accuracy for test set: 0.62
+[INFO 13:32:54]		Split data: 70% of training data and 30% of test data
+[INFO 13:32:54]		Training model...
+[RESULT 13:32:54]	logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.67
+[INFO 13:32:54]		Split data: 80% of training data and 20% of test data
+[INFO 13:32:54]		Training model...
+[RESULT 13:32:54]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.68
+[INFO 13:32:54]		Training model...
+[RESULT 13:32:54]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 13:32:54]		Training model...
+[RESULT 13:32:54]	Program stops with status: FAIL
+[INFO 13:35:17]		********** New session started *********
+[INFO 13:35:18]		Checking input...
+[INFO 13:35:18]		Input correct!
+[INFO 13:35:18]		**********Starting test default **********
+[INFO 13:35:18]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:35:18]		Done
+[INFO 13:35:18]		Making feature vector for test image.
+[INFO 13:36:35]		Done
+[INFO 13:36:35]		Making feature vector for test image.
+[INFO 13:36:41]		Done
+[INFO 13:36:41]		Split data: 60% of training data and 40% of test data
+[INFO 13:36:41]		Training model...
+[RESULT 13:36:41]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.63
+[INFO 13:36:41]		Split data: 70% of training data and 30% of test data
+[INFO 13:36:41]		Training model...
+[RESULT 13:36:41]	logistic_regression accuracy for train set: 0.71	logistic_regression accuracy for test set: 0.64
+[INFO 13:36:41]		Split data: 80% of training data and 20% of test data
+[INFO 13:36:41]		Training model...
+[RESULT 13:36:41]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.73
+[INFO 13:36:41]		Training model...
+[RESULT 13:36:41]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 13:36:41]		Training model...
+[RESULT 13:36:41]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 13:36:41]		Saving result...
+[RESULT 13:36:41]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 13:36:41]		********** Test default passed **********
+[RESULT 13:36:41]	Program stops with status: PASS
+[INFO 13:53:43]		********** New session started *********
+[INFO 13:53:44]		Checking input...
+[INFO 13:53:44]		Input correct!
+[INFO 13:53:44]		**********Starting test default **********
+[INFO 13:53:44]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:53:44]		Done
+[INFO 13:53:44]		Making feature vector for test image.
+[INFO 13:55:01]		Done
+[INFO 13:55:01]		Making feature vector for test image.
+[INFO 13:55:07]		Done
+[INFO 13:55:07]		Split data: 60% of training data and 40% of test data
+[INFO 13:55:07]		Training model...
+[RESULT 13:55:07]	SVC accuracy for train set: 0.65	SVC accuracy for test set: 0.58
+[INFO 13:55:07]		Split data: 70% of training data and 30% of test data
+[INFO 13:55:07]		Training model...
+[RESULT 13:55:07]	SVC accuracy for train set: 0.66	SVC accuracy for test set: 0.73
+[INFO 13:55:07]		Split data: 80% of training data and 20% of test data
+[INFO 13:55:07]		Training model...
+[RESULT 13:55:07]	SVC accuracy for train set: 0.68	SVC accuracy for test set: 0.7
+[INFO 13:55:07]		Training model...
+[RESULT 13:55:07]	SVC decision on passed image is: ['synthetic']
+[INFO 13:55:07]		Training model...
+[RESULT 13:55:07]	SVC decision on passed image is: ['synthetic']
+[INFO 13:55:07]		Saving result...
+[RESULT 13:55:07]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 13:55:07]		********** Test default passed **********
+[RESULT 13:55:07]	Program stops with status: PASS
+[INFO 13:59:22]		********** New session started *********
+[INFO 13:59:23]		Checking input...
+[INFO 13:59:23]		Input correct!
+[INFO 13:59:23]		**********Starting test default **********
+[INFO 13:59:23]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 13:59:23]		Done
+[INFO 13:59:23]		Making features vector for test image.
+[INFO 14:00:42]		Done
+[INFO 14:00:42]		Making features vector for test image.
+[INFO 14:00:48]		Done
+[INFO 14:00:48]		Split data: 60% of training data and 40% of test data
+[INFO 14:00:48]		Training model...
+[RESULT 14:00:48]	SVC accuracy for train set: 0.58	SVC accuracy for test set: 0.73
+[INFO 14:00:48]		Split data: 70% of training data and 30% of test data
+[INFO 14:00:48]		Training model...
+[RESULT 14:00:48]	SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.65
+[INFO 14:00:48]		Split data: 80% of training data and 20% of test data
+[INFO 14:00:48]		Training model...
+[RESULT 14:00:48]	SVC accuracy for train set: 0.71	SVC accuracy for test set: 0.51
+[INFO 14:00:48]		Training model...
+[RESULT 14:00:48]	SVC decision on passed image is: ['synthetic']
+[INFO 14:00:48]		Training model...
+[RESULT 14:00:48]	SVC decision on passed image is: ['synthetic']
+[INFO 14:00:48]		Saving result...
+[RESULT 14:00:48]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 14:00:48]		********** Test default passed **********
+[RESULT 14:00:48]	Program stops with status: PASS
+[INFO 14:03:11]		********** New session started *********
+[INFO 14:03:12]		Checking input...
+[INFO 14:03:12]		Input correct!
+[INFO 14:03:12]		**********Starting test default with gamma scale **********
+[INFO 14:03:12]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:03:12]		Done
+[INFO 14:03:12]		Making features vector for test image.
+[INFO 14:04:30]		Done
+[INFO 14:04:30]		Making features vector for test image.
+[INFO 14:04:36]		Done
+[INFO 14:04:36]		Split data: 60% of training data and 40% of test data
+[INFO 14:04:36]		Training model...
+[RESULT 14:04:36]	SVC accuracy for train set: 0.62	SVC accuracy for test set: 0.73
+[INFO 14:04:36]		Split data: 70% of training data and 30% of test data
+[INFO 14:04:36]		Training model...
+[RESULT 14:04:36]	SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.71
+[INFO 14:04:36]		Split data: 80% of training data and 20% of test data
+[INFO 14:04:36]		Training model...
+[RESULT 14:04:36]	SVC accuracy for train set: 0.7	SVC accuracy for test set: 0.7
+[INFO 14:04:36]		Training model...
+[RESULT 14:04:36]	SVC decision on passed image is: ['synthetic']
+[INFO 14:04:36]		Training model...
+[RESULT 14:04:36]	SVC decision on passed image is: ['synthetic']
+[INFO 14:04:36]		Saving result...
+[RESULT 14:04:36]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default with gamma scale__2019-04-11.txt
+[INFO 14:04:36]		********** Test default with gamma scale passed **********
+[RESULT 14:04:36]	Program stops with status: PASS
+[INFO 14:07:07]		********** New session started *********
+[INFO 14:07:08]		Checking input...
+[INFO 14:07:08]		Input correct!
+[INFO 14:07:08]		**********Starting test default with gamma scale **********
+[INFO 14:07:08]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:07:08]		Done
+[INFO 14:07:08]		Making features vector for test image.
+[INFO 14:12:07]		Done
+[INFO 14:12:07]		Making features vector for test image.
+[INFO 14:12:13]		Done
+[INFO 14:12:13]		Split data: 60% of training data and 40% of test data
+[INFO 14:12:13]		Training model...
+[RESULT 14:12:13]	SVC accuracy for train set: 0.69	SVC accuracy for test set: 0.7
+[INFO 14:12:13]		Split data: 70% of training data and 30% of test data
+[INFO 14:12:13]		Training model...
+[RESULT 14:12:13]	SVC accuracy for train set: 0.72	SVC accuracy for test set: 0.62
+[INFO 14:12:13]		Split data: 80% of training data and 20% of test data
+[INFO 14:12:13]		Training model...
+[RESULT 14:12:13]	SVC accuracy for train set: 0.67	SVC accuracy for test set: 0.78
+[INFO 14:12:13]		Training model...
+[RESULT 14:12:13]	SVC decision on passed image is: ['synthetic']
+[INFO 14:12:13]		Training model...
+[RESULT 14:12:13]	SVC decision on passed image is: ['synthetic']
+[INFO 14:12:13]		Saving result...
+[RESULT 14:12:13]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default with gamma scale__2019-04-11.txt
+[INFO 14:12:13]		********** Test default with gamma scale passed **********
+[RESULT 14:12:13]	Program stops with status: PASS
+[INFO 14:14:19]		********** New session started *********
+[INFO 14:14:20]		Checking input...
+[INFO 14:14:20]		Input correct!
+[INFO 14:14:20]		**********Starting test default with gamma scale **********
+[INFO 14:14:20]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:14:20]		Done
+[INFO 14:14:20]		Making features vector for test image.
+[RESULT 14:14:57]	Program stops with status: FAIL
+[INFO 14:16:20]		********** New session started *********
+[INFO 14:16:21]		Checking input...
+[INFO 14:16:21]		Input correct!
+[INFO 14:16:21]		**********Starting test default with gamma scale **********
+[INFO 14:16:21]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:16:21]		Done
+[INFO 14:16:21]		Making features vector for test image.
+[INFO 14:21:22]		Done
+[INFO 14:21:22]		Making features vector for test image.
+[INFO 14:21:28]		Done
+[INFO 14:21:28]		Split data: 60% of training data and 40% of test data
+[INFO 14:21:28]		Training model...
+[RESULT 14:21:28]	logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.64
+[INFO 14:21:28]		Split data: 70% of training data and 30% of test data
+[INFO 14:21:28]		Training model...
+[RESULT 14:21:28]	logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.64
+[INFO 14:21:28]		Split data: 80% of training data and 20% of test data
+[INFO 14:21:29]		Training model...
+[RESULT 14:21:29]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.73
+[INFO 14:21:29]		Training model...
+[RESULT 14:21:29]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:21:29]		Training model...
+[RESULT 14:21:29]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:21:29]		Saving result...
+[RESULT 14:21:29]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default with gamma scale__2019-04-11.txt
+[INFO 14:21:29]		********** Test default with gamma scale passed **********
+[RESULT 14:21:29]	Program stops with status: PASS
+[INFO 14:30:57]		********** New session started *********
+[INFO 14:30:58]		Checking input...
+[INFO 14:30:58]		Input correct!
+[INFO 14:30:58]		**********Starting test default **********
+[INFO 14:30:58]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:30:58]		Done
+[INFO 14:30:58]		Making features vector for test image.
+[INFO 14:35:56]		Done
+[INFO 14:35:56]		Making features vector for test image.
+[INFO 14:36:02]		Done
+[INFO 14:36:02]		Split data: 60% of training data and 40% of test data
+[INFO 14:36:02]		Training model...
+[RESULT 14:36:02]	logistic_regression accuracy for train set: 0.63	logistic_regression accuracy for test set: 0.71
+[INFO 14:36:02]		Split data: 70% of training data and 30% of test data
+[INFO 14:36:02]		Training model...
+[RESULT 14:36:02]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.67
+[INFO 14:36:02]		Split data: 80% of training data and 20% of test data
+[INFO 14:36:02]		Training model...
+[RESULT 14:36:02]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.73
+[INFO 14:36:02]		Training model...
+[RESULT 14:36:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:36:03]		Training model...
+[RESULT 14:36:03]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:36:03]		Saving result...
+[RESULT 14:36:03]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 14:36:03]		********** Test default passed **********
+[RESULT 14:36:03]	Program stops with status: PASS
+[INFO 14:40:48]		********** New session started *********
+[INFO 14:40:49]		Checking input...
+[INFO 14:40:49]		Input correct!
+[INFO 14:40:49]		**********Starting test default **********
+[INFO 14:40:49]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:40:49]		Done
+[INFO 14:40:49]		Making features vector for test image.
+[INFO 14:45:47]		Done
+[INFO 14:45:47]		Making features vector for test image.
+[INFO 14:45:53]		Done
+[INFO 14:45:53]		Split data: 60% of training data and 40% of test data
+[INFO 14:45:53]		Training model...
+[RESULT 14:45:53]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.73
+[INFO 14:45:53]		Split data: 70% of training data and 30% of test data
+[INFO 14:45:53]		Training model...
+[RESULT 14:45:53]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.67
+[INFO 14:45:53]		Split data: 80% of training data and 20% of test data
+[INFO 14:45:53]		Training model...
+[RESULT 14:45:53]	logistic_regression accuracy for train set: 0.68	logistic_regression accuracy for test set: 0.68
+[INFO 14:45:53]		Training model...
+[RESULT 14:45:53]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:45:53]		Training model...
+[RESULT 14:45:53]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 14:45:53]		Saving result...
+[RESULT 14:45:53]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 14:45:53]		********** Test default passed **********
+[RESULT 14:45:53]	Program stops with status: PASS
+[INFO 14:52:29]		********** New session started *********
+[INFO 14:52:30]		Checking input...
+[INFO 14:52:30]		Input correct!
+[INFO 14:52:30]		**********Starting test default **********
+[INFO 14:52:30]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 14:52:30]		Done
+[INFO 14:52:30]		Making features vector for test image.
+[INFO 14:57:31]		Done
+[INFO 14:57:31]		Making features vector for test image.
+[INFO 14:57:37]		Done
+[INFO 14:57:37]		Making features vector for test image.
+[INFO 15:02:34]		Done
+[INFO 15:02:34]		Making features vector for test image.
+[INFO 15:07:35]		Done
+[INFO 15:07:35]		Making features vector for test image.
+[INFO 15:12:37]		Done
+[INFO 15:12:37]		Making features vector for test image.
+[INFO 15:17:41]		Done
+[INFO 15:17:41]		Making features vector for test image.
+[INFO 15:22:46]		Done
+[INFO 15:22:46]		Making features vector for test image.
+[INFO 15:27:55]		Done
+[INFO 15:27:55]		Making features vector for test image.
+[INFO 15:33:02]		Done
+[INFO 15:33:02]		Split data: 60% of training data and 40% of test data
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression accuracy for train set: 0.77	logistic_regression accuracy for test set: 0.59
+[INFO 15:33:02]		Split data: 70% of training data and 30% of test data
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression accuracy for train set: 0.7	logistic_regression accuracy for test set: 0.67
+[INFO 15:33:02]		Split data: 80% of training data and 20% of test data
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.59
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['real']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['real']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['real']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 15:33:02]		Training model...
+[RESULT 15:33:02]	logistic_regression decision on passed image is: ['real']
+[INFO 15:33:02]		Saving result...
+[RESULT 15:33:02]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 15:33:02]		********** Test default passed **********
+[RESULT 15:33:02]	Program stops with status: PASS
+[INFO 16:05:55]		********** New session started *********
+[INFO 16:05:56]		Checking input...
+[INFO 16:05:56]		Input correct!
+[INFO 16:05:56]		**********Starting test default **********
+[INFO 16:05:56]		Loading features vector from file C:\Users\fkonopac\Desktop\final\final\new\feature vectors\features_vector.txt .
+[INFO 16:05:56]		Done
+[INFO 16:05:56]		Making features vector for test image.
+[INFO 16:10:59]		Done
+[INFO 16:10:59]		Making features vector for test image.
+[INFO 16:11:05]		Done
+[INFO 16:11:05]		Making features vector for test image.
+[INFO 16:16:04]		Done
+[INFO 16:16:04]		Making features vector for test image.
+[INFO 16:21:07]		Done
+[INFO 16:21:07]		Making features vector for test image.
+[INFO 16:26:09]		Done
+[INFO 16:26:09]		Making features vector for test image.
+[INFO 16:31:10]		Done
+[INFO 16:31:10]		Making features vector for test image.
+[INFO 16:36:16]		Done
+[INFO 16:36:16]		Making features vector for test image.
+[INFO 16:41:23]		Done
+[INFO 16:41:23]		Making features vector for test image.
+[INFO 16:46:26]		Done
+[INFO 16:46:26]		Split data: 60% of training data and 40% of test data
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.68
+[INFO 16:46:26]		Split data: 70% of training data and 30% of test data
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression accuracy for train set: 0.67	logistic_regression accuracy for test set: 0.69
+[INFO 16:46:26]		Split data: 80% of training data and 20% of test data
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression accuracy for train set: 0.69	logistic_regression accuracy for test set: 0.76
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['real']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['real']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['real']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['synthetic']
+[INFO 16:46:26]		Training model...
+[RESULT 16:46:26]	logistic_regression decision on passed image is: ['real']
+[INFO 16:46:26]		Saving result...
+[RESULT 16:46:26]	Result saved in C:\Users\fkonopac\Desktop\final\final\new\ImageClassifier\src\results\default__2019-04-11.txt
+[INFO 16:46:26]		********** Test default passed **********
+[RESULT 16:46:26]	Program stops with status: PASS
+[INFO 23:50:23]		********** New session started *********
+[INFO 23:50:29]		Checking input...
+[INFO 23:50:29]		Input correct!
+[ERROR 23:50:37]	Error during setting up test suite for test default LR.
+[RESULT 23:50:47]	Program stops with status: FAIL
+[INFO 23:52:51]		********** New session started *********
+[INFO 23:52:51]		Checking input...
+[INFO 23:52:51]		Input correct!
+[ERROR 23:52:59]	Error during setting up test suite for test default LR.
+[RESULT 23:53:09]	Program stops with status: FAIL
+[INFO 23:55:17]		********** New session started *********
+[INFO 23:55:17]		Checking input...
+[INFO 23:55:17]		Input correct!
+[ERROR 23:55:25]	Error during setting up test suite for test default LR.
+[RESULT 23:55:35]	Program stops with status: FAIL
+[INFO 23:56:07]		********** New session started *********
+[INFO 23:56:08]		Checking input...
+[INFO 23:56:08]		Input correct!
+[ERROR 23:56:16]	Error during setting up test suite for test default LR.
+[RESULT 23:56:26]	Program stops with status: FAIL
+[INFO 23:56:55]		********** New session started *********
+[INFO 23:56:56]		Checking input...
+[INFO 23:56:56]		Input correct!
+[RESULT 23:57:03]	Program stops with status: FAIL
+[INFO 23:57:57]		********** New session started *********
+[INFO 23:57:58]		Checking input...
+[INFO 23:57:58]		Input correct!
+[RESULT 23:58:06]	Program stops with status: FAIL
+[INFO 23:59:03]		********** New session started *********
+[INFO 23:59:04]		Checking input...
+[INFO 23:59:04]		Input correct!
+[RESULT 23:59:11]	Program stops with status: FAIL

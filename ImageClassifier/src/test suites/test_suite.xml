@@ -1,0 +1,21 @@
+<tests>
+    <test name="test">
+        <feature_vector>new</feature_vector>
+        <real_images>C:\Users\Tazik\Desktop\thesis\test_real</real_images>
+        <synthetic_images>C:\Users\Tazik\Desktop\thesis\test_synth</synthetic_images>
+        <features>
+            <feature>
+                <name>cooccurrence_matrices</name>
+                <channels>R;G;B;H;GRAY</channels>
+                <offsets>10;20;40;80;01;02;04;08</offsets>
+            </feature>
+        </features>
+        <save_options>
+            <vector>no</vector>
+            <histograms>C:\Users\Tazik\Desktop\thesis\test_histograms</histograms>
+            <matrices>C:\Users\Tazik\Desktop\thesis\test_matrices</matrices>
+        </save_options>
+        <classifier>logistic_regression</classifier>
+        <prediction_set>60;70;80;C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg;C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg;C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg;C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg;C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg;C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg</prediction_set>
+    </test>
+</tests>

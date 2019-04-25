@@ -1,0 +1,72 @@
+[INFO 13:28:21]		********** New session started *********
+[INFO 13:28:47]		********** New session started *********
+[INFO 13:30:18]		********** New session started *********
+[REQUEST 13:30:32]	Do you want to use existing features vector or calculate new one?
+[RESULT 13:30:35]	Program stops with status: fail
+[INFO 14:31:01]		********** New session started *********
+[INFO 14:31:15]		********** New session started *********
+[INFO 14:31:47]		********** New session started *********
+[INFO 14:52:03]		********** New session started *********
+[INFO 14:52:20]		********** New session started *********
+[INFO 14:52:56]		********** New session started *********
+[INFO 14:53:35]		********** New session started *********
+[INFO 14:54:08]		********** New session started *********
+[INFO 14:54:28]		********** New session started *********
+[INFO 14:54:41]		********** New session started *********
+[INFO 14:54:56]		********** New session started *********
+[INFO 15:08:38]		********** New session started *********
+[ERROR 15:08:38]		Invalid feature vector input. Expected 'new' or path to txt file.
+[INFO 15:09:09]		********** New session started *********
+[ERROR 15:09:09]		Invalid feature vector input. Expected 'new' or path to txt file.
+[INFO 15:09:58]		********** New session started *********
+[ERROR 15:09:58]		Invalid feature vector input. Expected 'new' or path to txt file.
+[INFO 15:16:28]		********** New session started *********
+[ERROR 15:16:28]		Invalid feature vector input in test None. Expected 'new' or path to txt file.
+[INFO 15:16:58]		********** New session started *********
+[ERROR 15:16:58]		Invalid feature vector input in test test2. Expected 'new' or path to txt file.
+[INFO 15:33:49]		********** New session started *********
+[INFO 15:33:59]		********** New session started *********
+[INFO 15:34:14]		********** New session started *********
+[INFO 15:34:28]		********** New session started *********
+[INFO 15:35:53]		********** New session started *********
+[INFO 15:36:08]		********** New session started *********
+[INFO 15:36:45]		********** New session started *********
+[INFO 15:36:56]		********** New session started *********
+[INFO 15:37:25]		********** New session started *********
+[INFO 15:37:36]		********** New session started *********
+[INFO 15:37:48]		********** New session started *********
+[INFO 15:38:13]		********** New session started *********
+[INFO 15:38:32]		********** New session started *********
+[INFO 15:38:58]		********** New session started *********
+[INFO 15:39:18]		********** New session started *********
+[INFO 15:39:34]		********** New session started *********
+[INFO 15:39:55]		********** New session started *********
+[INFO 15:40:46]		********** New session started *********
+[INFO 15:41:29]		********** New session started *********
+[INFO 15:41:49]		********** New session started *********
+[INFO 15:41:57]		********** New session started *********
+[INFO 15:42:17]		********** New session started *********
+[INFO 15:42:23]		********** New session started *********
+[INFO 15:42:45]		********** New session started *********
+[INFO 15:43:46]		********** New session started *********
+[INFO 15:44:47]		********** New session started *********
+[INFO 15:44:58]		********** New session started *********
+[INFO 15:45:13]		********** New session started *********
+[INFO 15:45:19]		********** New session started *********
+[INFO 15:45:40]		********** New session started *********
+[INFO 15:45:52]		********** New session started *********
+[INFO 15:46:00]		********** New session started *********
+[INFO 15:46:09]		********** New session started *********
+[INFO 15:46:37]		********** New session started *********
+[INFO 15:48:54]		********** New session started *********
+[INFO 15:50:59]		********** New session started *********
+[INFO 15:51:50]		********** New session started *********
+[ERROR 15:51:50]		Invalid feature vector input in test 1. Expected 'new' or path to txt file.
+[INFO 15:53:07]		********** New session started *********
+[ERROR 15:53:07]		Invalid feature vector input in test 1. Expected 'new' or path to txt file.
+[INFO 15:53:18]		********** New session started *********
+[ERROR 15:53:18]		Invalid feature vector input in test 1. Expected 'new' or path to txt file.
+[INFO 15:53:38]		********** New session started *********
+[ERROR 15:53:38]		Invalid feature vector input in test 1. Expected 'new' or path to txt file.
+[INFO 15:54:02]		********** New session started *********
+[INFO 16:03:26]		********** New session started *********

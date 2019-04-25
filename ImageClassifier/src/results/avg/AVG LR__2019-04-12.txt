@@ -1,0 +1,23 @@
+**********Result**********
+Finished: 2019-04-12 17:17:30
+Test xml: C:\Users\Tazik\Desktop\thesis\ImageClassifier\src\test suites\first_run.xml
+Test name: AVG LR
+Features vector location: C:\Users\Tazik\Desktop\thesis\feature vectors\feature_vector_avg.txt
+Real images location: None
+Synthetic images location: None
+Features:
+	Name: avg_saturation
+histograms saved in: C:\Users\Tazik\Desktop\thesis\histograms
+Classifier: logistic_regression
+RESULT:
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0296-2.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0722.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_0723.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_synth.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\test_bf.jpg	Decision: ['real']
+Prediction set: C:\Users\Tazik\Desktop\thesis\test images\DSC_2450.jpg	Decision: ['real']
+Prediction set: 60	Decision: logistic_regression accuracy for train set: 0.49	logistic_regression accuracy for test set: 0.51
+Prediction set: 70	Decision: logistic_regression accuracy for train set: 0.49	logistic_regression accuracy for test set: 0.51
+Prediction set: 80	Decision: logistic_regression accuracy for train set: 0.5	logistic_regression accuracy for test set: 0.5
+##########################
+

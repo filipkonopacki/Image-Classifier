@@ -1,0 +1,557 @@
+[INFO 11:26:42]		********** New session started *********
+[INFO 11:27:35]		********** New session started *********
+[ERROR 11:27:35]	Error during parsing xml file.
+[RESULT 11:27:40]	Program stops with status: FAIL
+[INFO 11:28:52]		********** New session started *********
+[ERROR 11:28:52]	Error during parsing xml file.
+[RESULT 11:29:02]	Program stops with status: FAIL
+[INFO 11:29:13]		********** New session started *********
+[INFO 11:29:14]		Checking input...
+[INFO 11:29:14]		Input correct!
+[INFO 11:29:14]		Working on image: synthetic_1
+[RESULT 11:29:14]	Program stops with status: FAIL
+[INFO 11:32:25]		********** New session started *********
+[INFO 11:32:25]		Checking input...
+[INFO 11:32:25]		Input correct!
+[INFO 11:32:25]		Working on image: synthetic_1
+[INFO 11:32:31]		Done
+[INFO 11:32:31]		Working on image: synthetic_2
+[INFO 11:32:46]		Done
+[INFO 11:32:46]		Working on image: synthetic_3
+[INFO 11:32:56]		Done
+[INFO 11:32:56]		Working on image: synthetic_4
+[INFO 11:33:12]		Done
+[INFO 11:33:12]		Working on image: synthetic_5
+[INFO 11:33:26]		Done
+[INFO 11:33:26]		Working on image: synthetic_6
+[INFO 11:33:50]		Done
+[INFO 11:33:50]		Working on image: synthetic_7
+[INFO 11:34:03]		Done
+[INFO 11:34:03]		Working on image: synthetic_8
+[INFO 11:34:09]		Done
+[INFO 11:34:09]		Working on image: synthetic_9
+[INFO 11:34:37]		Done
+[INFO 11:34:37]		Working on image: synthetic_10
+[INFO 11:35:40]		Done
+[INFO 11:35:40]		Working on image: synthetic_11
+[INFO 11:36:08]		Done
+[INFO 11:36:08]		Working on image: synthetic_12
+[INFO 11:37:21]		Done
+[INFO 11:37:21]		Working on image: synthetic_13
+[INFO 11:38:09]		Done
+[INFO 11:38:09]		Working on image: synthetic_14
+[INFO 11:38:21]		Done
+[INFO 11:38:21]		Working on image: real_1
+[INFO 11:39:39]		Done
+[INFO 11:39:39]		Working on image: real_2
+[INFO 11:39:57]		Done
+[INFO 11:39:57]		Working on image: real_3
+[INFO 11:40:16]		Done
+[INFO 11:40:16]		Working on image: real_4
+[INFO 11:40:34]		Done
+[INFO 11:40:34]		Working on image: real_5
+[INFO 11:40:52]		Done
+[INFO 11:40:52]		Working on image: real_6
+[INFO 11:41:10]		Done
+[INFO 11:41:10]		Working on image: real_7
+[INFO 11:41:47]		Done
+[INFO 11:41:47]		Working on image: real_8
+[INFO 11:42:23]		Done
+[INFO 11:42:23]		Working on image: real_9
+[INFO 11:43:00]		Done
+[INFO 11:43:00]		Working on image: real_10
+[INFO 11:43:37]		Done
+[INFO 11:43:37]		Working on image: real_11
+[INFO 11:43:56]		Done
+[INFO 11:43:56]		Working on image: real_12
+[INFO 11:44:33]		Done
+[INFO 11:44:33]		Working on image: real_13
+[INFO 11:45:11]		Done
+[INFO 11:45:11]		Working on image: real_14
+[INFO 11:45:29]		Done
+[INFO 11:45:29]		Features vector saved in C:\Users\fkonopac\Desktop\new\feature_vector.txt
+[RESULT 11:45:29]	Program stops with status: PASS
+[INFO 11:55:07]		********** New session started *********
+[INFO 11:55:22]		********** New session started *********
+[INFO 11:56:00]		********** New session started *********
+[INFO 11:56:23]		********** New session started *********
+[INFO 11:56:24]		Checking input...
+[ERROR 11:56:24]	Invalid feature vector. Get 'C:\Users\fkonopac\Desktop\new\feature_vector.xml', expected 'new' or path to txt file.
+[ERROR 11:56:24]	Error during setting up test suite.
+[RESULT 11:56:34]	Program stops with status: FAIL
+[INFO 11:57:12]		********** New session started *********
+[INFO 11:57:13]		Checking input...
+[ERROR 11:57:13]	Invalid feature vector. Get 'C:\Users\fkonopac\Desktop\new\feature_vector.xml', expected 'new' or path to txt file.
+[ERROR 11:57:13]	Error during setting up test suite.
+[RESULT 11:57:23]	Program stops with status: FAIL
+[INFO 11:58:19]		********** New session started *********
+[INFO 11:58:19]		Checking input...
+[INFO 11:58:19]		Input correct!
+[INFO 11:58:19]		Preparing data...
+[INFO 11:58:19]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\
+[INFO 11:58:19]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_R.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_G.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_B.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_H.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_GRAY.png
+[INFO 11:58:20]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\
+[INFO 11:58:20]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_R.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_G.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_B.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_H.png
+[INFO 11:58:20]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_GRAY.png
+[INFO 11:58:21]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\
+[INFO 11:58:21]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_R.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_G.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_B.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_H.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_GRAY.png
+[INFO 11:58:21]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\
+[INFO 11:58:21]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_R.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_G.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_B.png
+[INFO 11:58:21]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_H.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_GRAY.png
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_R.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_G.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_B.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_H.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_GRAY.png
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_R.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_G.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_B.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_H.png
+[INFO 11:58:22]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_GRAY.png
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\
+[INFO 11:58:22]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_R.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_G.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_B.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_H.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_GRAY.png
+[INFO 11:58:23]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\
+[INFO 11:58:23]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_R.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_G.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_B.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_H.png
+[INFO 11:58:23]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_GRAY.png
+[INFO 11:58:23]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_R.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_G.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_B.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_H.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_GRAY.png
+[INFO 11:58:24]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_R.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_G.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_B.png
+[INFO 11:58:24]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_H.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_GRAY.png
+[INFO 11:58:25]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_R.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_G.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_B.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_H.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_GRAY.png
+[INFO 11:58:25]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_R.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_G.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_B.png
+[INFO 11:58:25]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_H.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_GRAY.png
+[INFO 11:58:26]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_R.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_G.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_B.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_H.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_GRAY.png
+[INFO 11:58:26]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_R.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_G.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_B.png
+[INFO 11:58:26]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_H.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_GRAY.png
+[INFO 11:58:27]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_R.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_G.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_B.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_H.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_GRAY.png
+[INFO 11:58:27]		Folder created at: C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_R.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_G.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_B.png
+[INFO 11:58:27]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_H.png
+[INFO 11:58:28]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_GRAY.png
+[RESULT 11:58:38]	Program stops with status: FAIL
+[INFO 11:59:35]		********** New session started *********
+[INFO 11:59:56]		********** New session started *********
+[INFO 11:59:57]		Checking input...
+[INFO 11:59:57]		Input correct!
+[INFO 11:59:57]		Preparing data...
+[INFO 11:59:57]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_R.png
+[INFO 11:59:57]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_G.png
+[INFO 11:59:57]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_B.png
+[INFO 11:59:57]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_H.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\synthetic\histogram_GRAY.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_R.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_G.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_B.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_H.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\synthetic\histogram_GRAY.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_R.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_G.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_B.png
+[INFO 11:59:58]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_H.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\synthetic\histogram_GRAY.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_R.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_G.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_B.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_H.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\synthetic\histogram_GRAY.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_R.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_G.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_B.png
+[INFO 11:59:59]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_H.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\synthetic\histogram_GRAY.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_R.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_G.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_B.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_H.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\synthetic\histogram_GRAY.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_R.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_G.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_B.png
+[INFO 12:00:00]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_H.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\synthetic\histogram_GRAY.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_R.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_G.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_B.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_H.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\synthetic\histogram_GRAY.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_R.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_G.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_B.png
+[INFO 12:00:01]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_H.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[1,0]\real\histogram_GRAY.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_R.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_G.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_B.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_H.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[2,0]\real\histogram_GRAY.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_R.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_G.png
+[INFO 12:00:02]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_B.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_H.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[4,0]\real\histogram_GRAY.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_R.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_G.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_B.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_H.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[8,0]\real\histogram_GRAY.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_R.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_G.png
+[INFO 12:00:03]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_B.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_H.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,1]\real\histogram_GRAY.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_R.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_G.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_B.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_H.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,2]\real\histogram_GRAY.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_R.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_G.png
+[INFO 12:00:04]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_B.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_H.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,4]\real\histogram_GRAY.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_R.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_G.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_B.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_H.png
+[INFO 12:00:05]		Histogram saved in C:\Users\fkonopac\Desktop\new\hist\offset[0,8]\real\histogram_GRAY.png
+[INFO 12:00:05]		Split data: 80% of training data and 20% of test data
+[INFO 12:00:05]		Training model...
+[RESULT 12:00:05]	Logistic regression accuracy for train set: 0.7272727272727273
+[RESULT 12:00:05]	Logistic regression accuracy for test set: 0.6666666666666666
+[RESULT 12:00:05]	Program stops with status: PASS
+[INFO 12:57:39]		********** New session started *********
+[INFO 12:57:40]		Checking input...
+[INFO 12:57:40]		Input correct!
+[INFO 12:57:40]		Working on image: synthetic_1
+[INFO 12:57:43]		Done
+[INFO 12:57:43]		Working on image: synthetic_2
+[INFO 12:57:48]		Done
+[INFO 12:57:48]		Working on image: synthetic_3
+[INFO 12:57:52]		Done
+[INFO 12:57:52]		Working on image: synthetic_4
+[INFO 12:57:58]		Done
+[INFO 12:57:58]		Working on image: synthetic_5
+[INFO 12:58:03]		Done
+[INFO 12:58:03]		Working on image: synthetic_6
+[INFO 12:58:11]		Done
+[INFO 12:58:11]		Working on image: synthetic_7
+[INFO 12:58:16]		Done
+[INFO 12:58:16]		Working on image: synthetic_8
+[INFO 12:58:18]		Done
+[INFO 12:58:18]		Working on image: synthetic_9
+[INFO 12:58:29]		Done
+[INFO 12:58:29]		Working on image: synthetic_10
+[INFO 12:58:52]		Done
+[INFO 12:58:52]		Working on image: synthetic_11
+[INFO 12:59:02]		Done
+[INFO 12:59:02]		Working on image: synthetic_12
+[INFO 12:59:29]		Done
+[INFO 12:59:29]		Working on image: synthetic_13
+[INFO 12:59:47]		Done
+[INFO 12:59:47]		Working on image: synthetic_14
+[INFO 12:59:51]		Done
+[INFO 12:59:51]		Working on image: real_1
+[INFO 13:00:21]		Done
+[INFO 13:00:21]		Working on image: real_2
+[INFO 13:00:27]		Done
+[INFO 13:00:27]		Working on image: real_3
+[INFO 13:00:34]		Done
+[INFO 13:00:34]		Working on image: real_4
+[INFO 13:00:41]		Done
+[INFO 13:00:41]		Working on image: real_5
+[INFO 13:00:48]		Done
+[INFO 13:00:48]		Working on image: real_6
+[INFO 13:00:55]		Done
+[INFO 13:00:55]		Working on image: real_7
+[INFO 13:01:09]		Done
+[INFO 13:01:09]		Working on image: real_8
+[INFO 13:01:22]		Done
+[INFO 13:01:22]		Working on image: real_9
+[INFO 13:01:36]		Done
+[INFO 13:01:36]		Working on image: real_10
+[INFO 13:01:50]		Done
+[INFO 13:01:50]		Working on image: real_11
+[INFO 13:01:56]		Done
+[INFO 13:01:56]		Working on image: real_12
+[INFO 13:02:11]		Done
+[INFO 13:02:11]		Working on image: real_13
+[INFO 13:02:24]		Done
+[INFO 13:02:24]		Working on image: real_14
+[INFO 13:02:31]		Done
+[INFO 13:02:31]		Split data: 80% of training data and 20% of test data
+[RESULT 13:02:31]	Program stops with status: FAIL
+[INFO 13:04:00]		********** New session started *********
+[INFO 13:04:01]		Checking input...
+[INFO 13:04:01]		Input correct!
+[INFO 13:04:01]		Working on image: synthetic_1
+[INFO 13:04:03]		Done
+[INFO 13:04:03]		Working on image: synthetic_2
+[INFO 13:04:09]		Done
+[INFO 13:04:09]		Working on image: synthetic_3
+[INFO 13:04:13]		Done
+[INFO 13:04:13]		Working on image: synthetic_4
+[INFO 13:04:18]		Done
+[INFO 13:04:18]		Working on image: synthetic_5
+[INFO 13:04:24]		Done
+[INFO 13:04:24]		Working on image: synthetic_6
+[INFO 13:04:32]		Done
+[INFO 13:04:32]		Working on image: synthetic_7
+[INFO 13:04:37]		Done
+[INFO 13:04:37]		Working on image: synthetic_8
+[INFO 13:04:39]		Done
+[INFO 13:04:39]		Working on image: synthetic_9
+[INFO 13:04:50]		Done
+[INFO 13:04:50]		Working on image: synthetic_10
+[INFO 13:05:13]		Done
+[INFO 13:05:13]		Working on image: synthetic_11
+[INFO 13:05:23]		Done
+[INFO 13:05:23]		Working on image: synthetic_12
+[INFO 13:05:50]		Done
+[INFO 13:05:50]		Working on image: synthetic_13
+[INFO 13:06:07]		Done
+[INFO 13:06:07]		Working on image: synthetic_14
+[INFO 13:06:12]		Done
+[INFO 13:06:12]		Working on image: real_1
+[INFO 13:06:41]		Done
+[INFO 13:06:41]		Working on image: real_2
+[INFO 13:06:47]		Done
+[INFO 13:06:47]		Working on image: real_3
+[INFO 13:06:54]		Done
+[INFO 13:06:54]		Working on image: real_4
+[INFO 13:07:01]		Done
+[INFO 13:07:01]		Working on image: real_5
+[INFO 13:07:07]		Done
+[INFO 13:07:07]		Working on image: real_6
+[INFO 13:07:14]		Done
+[INFO 13:07:14]		Working on image: real_7
+[INFO 13:07:28]		Done
+[INFO 13:07:28]		Working on image: real_8
+[INFO 13:07:41]		Done
+[INFO 13:07:41]		Working on image: real_9
+[INFO 13:07:55]		Done
+[INFO 13:07:55]		Working on image: real_10
+[INFO 13:08:08]		Done
+[INFO 13:08:08]		Working on image: real_11
+[INFO 13:08:15]		Done
+[INFO 13:08:15]		Working on image: real_12
+[INFO 13:08:28]		Done
+[INFO 13:08:28]		Working on image: real_13
+[INFO 13:08:42]		Done
+[INFO 13:08:42]		Working on image: real_14
+[INFO 13:08:48]		Done
+[INFO 13:08:48]		Split data: 80% of training data and 20% of test data
+[INFO 13:08:48]		Training model...
+[RESULT 13:08:48]	Logistic regression accuracy for train set: 0.6818181818181818
+[RESULT 13:08:48]	Logistic regression accuracy for test set: 0.6666666666666666
+[RESULT 13:08:48]	Program stops with status: PASS
+[INFO 13:11:51]		********** New session started *********
+[INFO 13:11:52]		Checking input...
+[INFO 13:11:52]		Input correct!
+[RESULT 13:11:52]	Program stops with status: FAIL
+[INFO 13:12:44]		********** New session started *********
+[INFO 13:12:45]		Checking input...
+[INFO 13:12:45]		Input correct!
+[INFO 13:12:45]		Working on image: synthetic_1
+[RESULT 13:12:45]	Program stops with status: FAIL
+[INFO 13:13:36]		********** New session started *********
+[INFO 13:13:37]		Checking input...
+[INFO 13:13:37]		Input correct!
+[INFO 13:13:37]		Working on image: synthetic_1
+[RESULT 13:13:38]	Program stops with status: FAIL
+[INFO 13:22:43]		********** New session started *********
+[INFO 13:22:44]		Checking input...
+[INFO 13:22:44]		Input correct!
+[INFO 13:22:45]		Working on image: synthetic_1
+[RESULT 13:22:45]	Program stops with status: FAIL
+[INFO 13:23:37]		********** New session started *********
+[INFO 13:23:38]		Checking input...
+[INFO 13:23:38]		Input correct!
+[INFO 13:23:38]		Working on image: synthetic_1
+[INFO 13:23:39]		Done
+[INFO 13:23:39]		Working on image: synthetic_2
+[INFO 13:23:40]		Done
+[INFO 13:23:40]		Working on image: synthetic_3
+[INFO 13:23:41]		Done
+[INFO 13:23:41]		Working on image: synthetic_4
+[INFO 13:23:42]		Done
+[INFO 13:23:42]		Working on image: synthetic_5
+[INFO 13:23:43]		Done
+[INFO 13:23:43]		Working on image: synthetic_6
+[INFO 13:23:44]		Done
+[INFO 13:23:44]		Working on image: synthetic_7
+[INFO 13:23:45]		Done
+[INFO 13:23:45]		Working on image: synthetic_8
+[INFO 13:23:46]		Done
+[INFO 13:23:46]		Working on image: synthetic_9
+[INFO 13:23:48]		Done
+[INFO 13:23:48]		Working on image: synthetic_10
+[INFO 13:23:52]		Done
+[INFO 13:23:52]		Working on image: synthetic_11
+[INFO 13:23:54]		Done
+[INFO 13:23:54]		Working on image: synthetic_12
+[INFO 13:23:59]		Done
+[INFO 13:23:59]		Working on image: synthetic_13
+[INFO 13:24:02]		Done
+[INFO 13:24:02]		Working on image: synthetic_14
+[INFO 13:24:03]		Done
+[INFO 13:24:03]		Working on image: real_1
+[INFO 13:24:09]		Done
+[INFO 13:24:09]		Working on image: real_2
+[INFO 13:24:10]		Done
+[INFO 13:24:10]		Working on image: real_3
+[INFO 13:24:11]		Done
+[INFO 13:24:11]		Working on image: real_4
+[INFO 13:24:12]		Done
+[INFO 13:24:12]		Working on image: real_5
+[INFO 13:24:14]		Done
+[INFO 13:24:14]		Working on image: real_6
+[INFO 13:24:15]		Done
+[INFO 13:24:15]		Working on image: real_7
+[INFO 13:24:17]		Done
+[INFO 13:24:17]		Working on image: real_8
+[INFO 13:24:20]		Done
+[INFO 13:24:20]		Working on image: real_9
+[INFO 13:24:22]		Done
+[INFO 13:24:22]		Working on image: real_10
+[INFO 13:24:25]		Done
+[INFO 13:24:25]		Working on image: real_11
+[INFO 13:24:26]		Done
+[INFO 13:24:26]		Working on image: real_12
+[INFO 13:24:29]		Done
+[INFO 13:24:29]		Working on image: real_13
+[INFO 13:24:31]		Done
+[INFO 13:24:31]		Working on image: real_14
+[INFO 13:24:32]		Done
+[INFO 13:24:32]		Split data: 80% of training data and 20% of test data
+[INFO 13:24:32]		Training model...
+[RESULT 13:24:32]	Logistic regression accuracy for train set: 0.5909090909090909
+[RESULT 13:24:32]	Logistic regression accuracy for test set: 0.16666666666666666
+[RESULT 13:24:32]	Program stops with status: PASS
+[INFO 15:39:20]		********** New session started *********
+[INFO 15:39:21]		Checking input...
+[INFO 15:39:21]		Input correct!
+[INFO 15:39:22]		Working on image: synthetic_1
+[INFO 15:39:22]		Done
+[INFO 15:39:22]		Working on image: synthetic_2
+[INFO 15:39:23]		Done
+[INFO 15:39:23]		Working on image: synthetic_3
+[INFO 15:39:24]		Done
+[INFO 15:39:24]		Working on image: synthetic_4
+[INFO 15:39:25]		Done
+[INFO 15:39:25]		Working on image: synthetic_5
+[INFO 15:39:26]		Done
+[INFO 15:39:26]		Working on image: synthetic_6
+[INFO 15:39:28]		Done
+[INFO 15:39:28]		Working on image: synthetic_7
+[INFO 15:39:29]		Done
+[INFO 15:39:29]		Working on image: synthetic_8
+[INFO 15:39:29]		Done
+[INFO 15:39:29]		Working on image: synthetic_9
+[INFO 15:39:31]		Done
+[INFO 15:39:31]		Working on image: synthetic_10
+[INFO 15:39:35]		Done
+[INFO 15:39:35]		Working on image: synthetic_11
+[INFO 15:39:37]		Done
+[INFO 15:39:37]		Working on image: synthetic_12
+[INFO 15:39:42]		Done
+[INFO 15:39:42]		Working on image: synthetic_13
+[INFO 15:39:45]		Done
+[INFO 15:39:45]		Working on image: synthetic_14
+[INFO 15:39:46]		Done
+[INFO 15:39:46]		Working on image: real_1
+[INFO 15:39:51]		Done
+[INFO 15:39:51]		Working on image: real_2
+[INFO 15:39:53]		Done
+[INFO 15:39:53]		Working on image: real_3
+[INFO 15:39:54]		Done
+[INFO 15:39:54]		Working on image: real_4
+[INFO 15:39:55]		Done
+[INFO 15:39:55]		Working on image: real_5
+[INFO 15:39:56]		Done
+[INFO 15:39:56]		Working on image: real_6
+[INFO 15:39:58]		Done
+[INFO 15:39:58]		Working on image: real_7
+[INFO 15:40:00]		Done
+[INFO 15:40:00]		Working on image: real_8
+[INFO 15:40:02]		Done
+[INFO 15:40:02]		Working on image: real_9
+[INFO 15:40:05]		Done
+[INFO 15:40:05]		Working on image: real_10
+[INFO 15:40:07]		Done
+[INFO 15:40:07]		Working on image: real_11
+[INFO 15:40:09]		Done
+[INFO 15:40:09]		Working on image: real_12
+[INFO 15:40:11]		Done
+[INFO 15:40:11]		Working on image: real_13
+[INFO 15:40:13]		Done
+[INFO 15:40:13]		Working on image: real_14
+[INFO 15:40:15]		Done
+[INFO 15:40:15]		Split data: 80% of training data and 20% of test data
+[INFO 15:40:15]		Training model...
+[RESULT 15:40:15]	Logistic regression accuracy for train set: 0.5185185185185185
+[RESULT 15:40:15]	Logistic regression accuracy for test set: 0.0
+[RESULT 15:40:15]	Program stops with status: PASS

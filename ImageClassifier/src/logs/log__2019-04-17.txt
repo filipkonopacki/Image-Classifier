@@ -1,0 +1,492 @@
+[INFO 20:28:22]		********** New session started *********
+[INFO 20:28:30]		Checking input...
+[INFO 20:28:30]		Input correct!
+[INFO 20:28:30]		**********Starting test test **********
+[INFO 20:28:30]		Working on image: synthetic_1
+[INFO 20:28:31]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\synthetic\matrix_1__R.jpg
+[INFO 20:28:31]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\synthetic\matrix_1__G.jpg
+[INFO 20:28:32]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\synthetic\matrix_1__B.jpg
+[INFO 20:28:33]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\synthetic\matrix_1__H.jpg
+[INFO 20:28:33]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:34]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\synthetic\matrix_1__R.jpg
+[INFO 20:28:35]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\synthetic\matrix_1__G.jpg
+[INFO 20:28:35]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\synthetic\matrix_1__B.jpg
+[INFO 20:28:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\synthetic\matrix_1__H.jpg
+[INFO 20:28:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\synthetic\matrix_1__R.jpg
+[INFO 20:28:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\synthetic\matrix_1__G.jpg
+[INFO 20:28:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\synthetic\matrix_1__B.jpg
+[INFO 20:28:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\synthetic\matrix_1__H.jpg
+[INFO 20:28:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\synthetic\matrix_1__R.jpg
+[INFO 20:28:42]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\synthetic\matrix_1__G.jpg
+[INFO 20:28:42]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\synthetic\matrix_1__B.jpg
+[INFO 20:28:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\synthetic\matrix_1__H.jpg
+[INFO 20:28:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\synthetic\matrix_1__R.jpg
+[INFO 20:28:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\synthetic\matrix_1__G.jpg
+[INFO 20:28:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\synthetic\matrix_1__B.jpg
+[INFO 20:28:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\synthetic\matrix_1__H.jpg
+[INFO 20:28:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\synthetic\matrix_1__R.jpg
+[INFO 20:28:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\synthetic\matrix_1__G.jpg
+[INFO 20:28:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\synthetic\matrix_1__B.jpg
+[INFO 20:28:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\synthetic\matrix_1__H.jpg
+[INFO 20:28:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:51]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\synthetic\matrix_1__R.jpg
+[INFO 20:28:52]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\synthetic\matrix_1__G.jpg
+[INFO 20:28:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\synthetic\matrix_1__B.jpg
+[INFO 20:28:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\synthetic\matrix_1__H.jpg
+[INFO 20:28:54]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\synthetic\matrix_1__R.jpg
+[INFO 20:28:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\synthetic\matrix_1__G.jpg
+[INFO 20:28:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\synthetic\matrix_1__B.jpg
+[INFO 20:28:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\synthetic\matrix_1__H.jpg
+[INFO 20:28:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\synthetic\matrix_1__GRAY.jpg
+[INFO 20:28:57]		Done
+[INFO 20:28:57]		Working on image: real_1
+[INFO 20:28:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\real\matrix_1__R.jpg
+[INFO 20:28:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\real\matrix_1__G.jpg
+[INFO 20:28:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\real\matrix_1__B.jpg
+[INFO 20:29:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\real\matrix_1__H.jpg
+[INFO 20:29:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\real\matrix_1__GRAY.jpg
+[INFO 20:29:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\real\matrix_1__R.jpg
+[INFO 20:29:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\real\matrix_1__G.jpg
+[INFO 20:29:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\real\matrix_1__B.jpg
+[INFO 20:29:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\real\matrix_1__H.jpg
+[INFO 20:29:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\real\matrix_1__GRAY.jpg
+[INFO 20:29:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\real\matrix_1__R.jpg
+[INFO 20:29:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\real\matrix_1__G.jpg
+[INFO 20:29:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\real\matrix_1__B.jpg
+[INFO 20:29:07]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\real\matrix_1__H.jpg
+[INFO 20:29:08]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\real\matrix_1__GRAY.jpg
+[INFO 20:29:08]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\real\matrix_1__R.jpg
+[INFO 20:29:09]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\real\matrix_1__G.jpg
+[INFO 20:29:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\real\matrix_1__B.jpg
+[INFO 20:29:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\real\matrix_1__H.jpg
+[INFO 20:29:11]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\real\matrix_1__GRAY.jpg
+[INFO 20:29:12]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\real\matrix_1__R.jpg
+[INFO 20:29:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\real\matrix_1__G.jpg
+[INFO 20:29:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\real\matrix_1__B.jpg
+[INFO 20:29:14]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\real\matrix_1__H.jpg
+[INFO 20:29:15]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\real\matrix_1__GRAY.jpg
+[INFO 20:29:15]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\real\matrix_1__R.jpg
+[INFO 20:29:16]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\real\matrix_1__G.jpg
+[INFO 20:29:17]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\real\matrix_1__B.jpg
+[INFO 20:29:17]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\real\matrix_1__H.jpg
+[INFO 20:29:18]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\real\matrix_1__GRAY.jpg
+[INFO 20:29:19]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\real\matrix_1__R.jpg
+[INFO 20:29:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\real\matrix_1__G.jpg
+[INFO 20:29:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\real\matrix_1__B.jpg
+[INFO 20:29:21]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\real\matrix_1__H.jpg
+[INFO 20:29:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\real\matrix_1__GRAY.jpg
+[INFO 20:29:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\real\matrix_1__R.jpg
+[INFO 20:29:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\real\matrix_1__G.jpg
+[INFO 20:29:24]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\real\matrix_1__B.jpg
+[INFO 20:29:24]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\real\matrix_1__H.jpg
+[INFO 20:29:25]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\real\matrix_1__GRAY.jpg
+[INFO 20:29:25]		Done
+[INFO 20:29:25]		Preparing data...
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\synthetic\histogram_R.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\synthetic\histogram_G.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\synthetic\histogram_B.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\synthetic\histogram_H.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\synthetic\histogram_GRAY.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\synthetic\histogram_R.png
+[INFO 20:29:26]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\synthetic\histogram_G.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\synthetic\histogram_B.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\synthetic\histogram_H.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\synthetic\histogram_GRAY.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\synthetic\histogram_R.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\synthetic\histogram_G.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\synthetic\histogram_B.png
+[INFO 20:29:27]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\synthetic\histogram_H.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\synthetic\histogram_GRAY.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\synthetic\histogram_R.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\synthetic\histogram_G.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\synthetic\histogram_B.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\synthetic\histogram_H.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\synthetic\histogram_GRAY.png
+[INFO 20:29:28]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\synthetic\histogram_R.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\synthetic\histogram_G.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\synthetic\histogram_B.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\synthetic\histogram_H.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\synthetic\histogram_GRAY.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\synthetic\histogram_R.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\synthetic\histogram_G.png
+[INFO 20:29:29]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\synthetic\histogram_B.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\synthetic\histogram_H.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\synthetic\histogram_GRAY.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\synthetic\histogram_R.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\synthetic\histogram_G.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\synthetic\histogram_B.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\synthetic\histogram_H.png
+[INFO 20:29:30]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\synthetic\histogram_GRAY.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\synthetic\histogram_R.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\synthetic\histogram_G.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\synthetic\histogram_B.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\synthetic\histogram_H.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\synthetic\histogram_GRAY.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\real\histogram_R.png
+[INFO 20:29:31]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\real\histogram_G.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\real\histogram_B.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\real\histogram_H.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[10]\real\histogram_GRAY.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\real\histogram_R.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\real\histogram_G.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\real\histogram_B.png
+[INFO 20:29:32]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\real\histogram_H.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[20]\real\histogram_GRAY.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\real\histogram_R.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\real\histogram_G.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\real\histogram_B.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\real\histogram_H.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[40]\real\histogram_GRAY.png
+[INFO 20:29:33]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\real\histogram_R.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\real\histogram_G.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\real\histogram_B.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\real\histogram_H.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[80]\real\histogram_GRAY.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\real\histogram_R.png
+[INFO 20:29:34]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\real\histogram_G.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\real\histogram_B.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\real\histogram_H.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[01]\real\histogram_GRAY.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\real\histogram_R.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\real\histogram_G.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\real\histogram_B.png
+[INFO 20:29:35]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\real\histogram_H.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[02]\real\histogram_GRAY.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\real\histogram_R.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\real\histogram_G.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\real\histogram_B.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\real\histogram_H.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[04]\real\histogram_GRAY.png
+[INFO 20:29:36]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\real\histogram_R.png
+[INFO 20:29:37]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\real\histogram_G.png
+[INFO 20:29:37]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\real\histogram_B.png
+[INFO 20:29:37]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\real\histogram_H.png
+[INFO 20:29:37]		Saving histogram in C:\Users\Tazik\Desktop\thesis\test_histograms\offset[08]\real\histogram_GRAY.png
+[INFO 20:29:37]		Making features vector for test image.
+[INFO 20:29:37]		Working on image: DSC_0296-2.jpg_1
+[INFO 20:29:49]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg
+[INFO 20:29:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:30:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:30:12]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:30:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:30:34]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:30:46]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg
+[INFO 20:30:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:30:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:31:09]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:31:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:31:32]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:31:43]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg
+[INFO 20:31:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:31:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:32:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:32:18]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:32:29]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:32:41]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg
+[INFO 20:32:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:32:52]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:33:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:33:15]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:33:27]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:33:39]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg
+[INFO 20:33:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:33:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:34:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:34:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:34:25]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:34:37]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg
+[INFO 20:34:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:34:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:35:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:35:11]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:35:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:35:35]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg
+[INFO 20:35:35]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:35:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:35:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:36:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:36:21]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:36:33]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg
+[INFO 20:36:33]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg\matrix_1__R.jpg
+[INFO 20:36:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg\matrix_1__G.jpg
+[INFO 20:36:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg\matrix_1__B.jpg
+[INFO 20:37:08]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg\matrix_1__H.jpg
+[INFO 20:37:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0296-2.jpg\matrix_1__GRAY.jpg
+[INFO 20:37:20]		Done
+[INFO 20:37:20]		Done
+[INFO 20:37:20]		Making features vector for test image.
+[INFO 20:37:20]		Working on image: DSC_0722.jpg_1
+[INFO 20:37:28]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg
+[INFO 20:37:28]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:37:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:37:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:37:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:38:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:38:09]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg
+[INFO 20:38:09]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:38:18]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:38:26]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:38:35]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:38:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:38:51]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg
+[INFO 20:38:51]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:39:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:39:08]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:39:16]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:39:25]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:39:33]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg
+[INFO 20:39:33]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:39:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:39:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:39:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:40:07]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:40:15]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg
+[INFO 20:40:15]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:40:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:40:32]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:40:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:40:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:40:58]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg
+[INFO 20:40:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:41:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:41:14]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:41:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:41:31]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:41:40]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg
+[INFO 20:41:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:41:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:41:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:42:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:42:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:42:22]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg
+[INFO 20:42:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg\matrix_1__R.jpg
+[INFO 20:42:31]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg\matrix_1__G.jpg
+[INFO 20:42:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg\matrix_1__B.jpg
+[INFO 20:42:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg\matrix_1__H.jpg
+[INFO 20:42:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0722.jpg\matrix_1__GRAY.jpg
+[INFO 20:42:56]		Done
+[INFO 20:42:56]		Done
+[INFO 20:42:56]		Making features vector for test image.
+[INFO 20:42:57]		Working on image: DSC_0723.jpg_1
+[INFO 20:43:05]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg
+[INFO 20:43:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:43:14]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:43:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:43:31]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:43:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:43:47]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg
+[INFO 20:43:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:43:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:44:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:44:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:44:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:44:30]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg
+[INFO 20:44:30]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:44:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:44:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:44:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:45:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:45:12]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg
+[INFO 20:45:12]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:45:21]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:45:29]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:45:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:45:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:45:55]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg
+[INFO 20:45:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:46:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:46:11]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:46:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:46:28]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:46:37]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg
+[INFO 20:46:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:46:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:46:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:47:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:47:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:47:19]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg
+[INFO 20:47:19]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:47:27]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:47:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:47:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:47:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:01]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg
+[INFO 20:48:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg\matrix_1__R.jpg
+[INFO 20:48:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg\matrix_1__G.jpg
+[INFO 20:48:18]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg\matrix_1__B.jpg
+[INFO 20:48:27]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg\matrix_1__H.jpg
+[INFO 20:48:35]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_0723.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:35]		Done
+[INFO 20:48:35]		Done
+[INFO 20:48:35]		Making features vector for test image.
+[INFO 20:48:35]		Working on image: test_synth.jpg_1
+[INFO 20:48:36]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg
+[INFO 20:48:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:38]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg
+[INFO 20:48:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:38]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:40]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg
+[INFO 20:48:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:41]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:42]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg
+[INFO 20:48:42]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:42]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:44]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg
+[INFO 20:48:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:44]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:45]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:46]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg
+[INFO 20:48:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:48]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg
+[INFO 20:48:48]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:50]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg
+[INFO 20:48:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg\matrix_1__R.jpg
+[INFO 20:48:51]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg\matrix_1__G.jpg
+[INFO 20:48:51]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg\matrix_1__B.jpg
+[INFO 20:48:52]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg\matrix_1__H.jpg
+[INFO 20:48:52]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_synth.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:52]		Done
+[INFO 20:48:52]		Done
+[INFO 20:48:52]		Making features vector for test image.
+[INFO 20:48:52]		Working on image: test_bf.jpg_1
+[INFO 20:48:53]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg
+[INFO 20:48:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:48:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:48:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:48:54]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:48:54]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:54]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg
+[INFO 20:48:54]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:48:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:48:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:48:55]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:48:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:56]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg
+[INFO 20:48:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:48:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:48:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:48:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:48:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:58]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg
+[INFO 20:48:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:48:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:48:58]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:48:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:48:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:48:59]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg
+[INFO 20:48:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:49:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:49:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:49:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:49:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:01]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg
+[INFO 20:49:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:49:01]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:49:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:49:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:49:02]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:03]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg
+[INFO 20:49:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:49:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:49:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:49:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:49:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:04]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg
+[INFO 20:49:04]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg\matrix_1__R.jpg
+[INFO 20:49:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg\matrix_1__G.jpg
+[INFO 20:49:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg\matrix_1__B.jpg
+[INFO 20:49:05]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg\matrix_1__H.jpg
+[INFO 20:49:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\test_bf.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:06]		Done
+[INFO 20:49:06]		Done
+[INFO 20:49:06]		Making features vector for test image.
+[INFO 20:49:06]		Working on image: DSC_2450.jpg_1
+[INFO 20:49:09]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg
+[INFO 20:49:09]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:49:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:49:16]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:49:19]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:49:22]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[1, 0]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:26]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg
+[INFO 20:49:26]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:49:29]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:49:32]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:49:36]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:49:39]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[2, 0]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:43]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg
+[INFO 20:49:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:49:46]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:49:49]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:49:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:49:56]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[4, 0]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:49:59]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg
+[INFO 20:49:59]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:50:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:50:06]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:50:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:50:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[8, 0]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:50:16]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg
+[INFO 20:50:16]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:50:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:50:23]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:50:27]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:50:30]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 1]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:50:33]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg
+[INFO 20:50:33]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:50:37]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:50:40]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:50:43]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:50:47]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 2]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:50:50]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg
+[INFO 20:50:50]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:50:53]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:50:57]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:51:00]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:51:03]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 4]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:51:07]		Folder created at: C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg
+[INFO 20:51:07]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg\matrix_1__R.jpg
+[INFO 20:51:10]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg\matrix_1__G.jpg
+[INFO 20:51:13]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg\matrix_1__B.jpg
+[INFO 20:51:16]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg\matrix_1__H.jpg
+[INFO 20:51:20]		Image saved in C:\Users\Tazik\Desktop\thesis\test_matrices\[0, 8]\DSC_2450.jpg\matrix_1__GRAY.jpg
+[INFO 20:51:20]		Done
+[INFO 20:51:20]		Done
+[INFO 20:51:20]		Split data: 60% of training data and 40% of test data
+[INFO 20:51:20]		Training model...
+[RESULT 20:51:20]	logistic_regression accuracy for train set: 1.0	logistic_regression accuracy for test set: 0.0
+[INFO 20:51:20]		Split data: 70% of training data and 30% of test data
+[INFO 20:51:20]		Training model...
+[RESULT 20:51:20]	logistic_regression accuracy for train set: 0.6	logistic_regression accuracy for test set: 0.0
+[INFO 20:51:20]		Split data: 80% of training data and 20% of test data
+[INFO 20:51:20]		Training model...
+[RESULT 20:51:20]	logistic_regression accuracy for train set: 0.83	logistic_regression accuracy for test set: 0.0
+[INFO 20:51:20]		Training model...
+[RESULT 20:51:20]	Program stops with status: FAIL

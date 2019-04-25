@@ -1,0 +1,24 @@
+[INFO 10:37:02]		********** New session started *********
+[REQUEST 10:37:08]	Do you want to use existing features vector or calculate new one?
+[INPUT 10:37:19]	user> E
+[INFO 10:37:20]		Loading features vector from file...
+[REQUEST 10:37:20]	Enter path to txt file with saved features vector: 
+[INPUT 10:37:34]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt\
+[ERROR 10:37:34]		Entered path doesnt exist.
+[RESULT 10:37:35]	Program stops with status: fail
+[INFO 10:37:38]		********** New session started *********
+[REQUEST 10:37:39]	Do you want to use existing features vector or calculate new one?
+[INPUT 10:37:42]	user> E
+[INFO 10:37:42]		Loading features vector from file...
+[REQUEST 10:37:42]	Enter path to txt file with saved features vector: 
+[INPUT 10:37:47]	user> C:\Users\Tazik\Documents\GitHub\ImageClassifier\src\logs\features_vector.txt
+[REQUEST 10:37:47]	Do you want to save histograms of features?
+[INPUT 10:37:49]	user> N
+[INFO 10:37:49]		Histograms of features will not be saved
+[INFO 10:37:49]		Features vector created successfully.
+[REQUEST 10:37:49]	Enter percentage of training data you want to use: 
+[INFO 10:38:01]		Split data: 80% of training data and 20% of test data
+[INFO 10:38:01]		Training model...
+[RESULT 10:38:01]	Logistic regression accuracy for train set: 0.6736111111111112
+[RESULT 10:38:01]	Logistic regression accuracy for test set: 0.7837837837837838
+[RESULT 10:38:01]	Program stops with status: pass
