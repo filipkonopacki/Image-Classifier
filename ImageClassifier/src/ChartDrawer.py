@@ -48,11 +48,22 @@ for i in range(len(channel_color)):
     plt.xlabel('unikalne kolory')
     plt.ylabel('kanał ' + CHANNELS[i])
     file_name = CHANNELS[i] + '.png'
+    labeled_synth = False
+    labeled_real = False
     for offset in OFFSETS:
         for image_type in IMAGE_TYPES:
             unq = unq_real if image_type == REAL else unq_synth
-            type = 'r.' if image_type == REAL else 'g.'
-            plt.plot(unq, offsets[offset, image_type][i], type)
+            type = 'g.' if image_type == REAL else 'r.'
+            label = 'naturalne' if image_type == REAL else 'syntetyczne'
+            if labeled_real == False and image_type == REAL:
+                labeled_real = True
+                plt.plot(unq, offsets[offset, image_type][i], type, label=label)
+            elif labeled_synth == False and image_type == SYNTHETIC:
+                labeled_synth = True
+                plt.plot(unq, offsets[offset, image_type][i], type, label=label)
+            else:
+                plt.plot(unq, offsets[offset, image_type][i], type)
+    plt.legend()
     plt.savefig(path + file_name)
     plt.close()
 
