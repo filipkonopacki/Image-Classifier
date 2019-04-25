@@ -45,6 +45,8 @@ image_type_symbol[SYNTHETIC] = '^'
 
 path = 'C:\\private\\Image-Classifier\\ImageClassifier\\charts\\'
 for i in range(len(channel_color)):
+    plt.xlabel('unikalne kolory')
+    plt.ylabel('kanał ' + CHANNELS[i])
     file_name = CHANNELS[i] + '.png'
     for offset in OFFSETS:
         for image_type in IMAGE_TYPES:
