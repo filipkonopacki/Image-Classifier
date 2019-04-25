@@ -80,7 +80,7 @@ class Utils:
             tmp_features.append(tmp_vector)
         return tmp_features
 
-    def __prepare_data(self, real_features_vector, synthetic_features_vector ):
+    def prepare_data(self, real_features_vector, synthetic_features_vector ):
         data = defaultdict(list)
         data[REAL] = self.__get_feature_vector(real_features_vector)
         data[SYNTHETIC] = self.__get_feature_vector(synthetic_features_vector)
